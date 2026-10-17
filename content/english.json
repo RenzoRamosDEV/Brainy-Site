@@ -1,0 +1,2093 @@
+{
+  "id": "english",
+  "name": "English",
+  "lang": "en",
+  "lessons": [
+    {
+      "id": "leccion-1",
+      "name": "Lesson 1",
+      "topics": [
+        {
+          "id": "clothes",
+          "name": "Clothes and Accessories",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "Clothes for the top half of your body and for going out. A jumper is warm, and a raincoat keeps you dry in the rain. A suit is a jacket with matching trousers, and people often wear a tie with it.",
+                "tiles": [
+                  {
+                    "symbol": "👕",
+                    "label": "T-shirt"
+                  },
+                  {
+                    "symbol": "🌺",
+                    "label": "Hawaiian shirt"
+                  },
+                  {
+                    "symbol": "👚",
+                    "label": "blouse"
+                  },
+                  {
+                    "symbol": "🧶",
+                    "label": "jumper"
+                  },
+                  {
+                    "symbol": "🧥",
+                    "label": "coat"
+                  },
+                  {
+                    "symbol": "☔",
+                    "label": "raincoat"
+                  },
+                  {
+                    "symbol": "🤵",
+                    "label": "suit"
+                  },
+                  {
+                    "symbol": "👔",
+                    "label": "tie"
+                  }
+                ]
+              },
+              {
+                "caption": "Clothes for your legs or your whole body. Jeans are trousers made of denim. You wear a tracksuit for sport, a swimming costume at the pool and a costume at a fancy dress party.",
+                "tiles": [
+                  {
+                    "symbol": "👖",
+                    "label": "jeans / trousers"
+                  },
+                  {
+                    "symbol": "🩳",
+                    "label": "shorts"
+                  },
+                  {
+                    "symbol": "💃",
+                    "label": "skirt"
+                  },
+                  {
+                    "symbol": "👗",
+                    "label": "dress"
+                  },
+                  {
+                    "symbol": "🦵",
+                    "label": "tights"
+                  },
+                  {
+                    "symbol": "🏃",
+                    "label": "tracksuit"
+                  },
+                  {
+                    "symbol": "🩱",
+                    "label": "swimming costume"
+                  },
+                  {
+                    "symbol": "🦸",
+                    "label": "costume (fancy dress)"
+                  }
+                ]
+              },
+              {
+                "caption": "Shoes and accessories. Trainers are sports shoes, sandals are open shoes for summer and boots cover your feet and ankles. A scarf keeps your neck warm, and you carry your things in a handbag.",
+                "tiles": [
+                  {
+                    "symbol": "👟",
+                    "label": "trainers"
+                  },
+                  {
+                    "symbol": "👡",
+                    "label": "sandals"
+                  },
+                  {
+                    "symbol": "🥾",
+                    "label": "boots"
+                  },
+                  {
+                    "symbol": "🧣",
+                    "label": "scarf"
+                  },
+                  {
+                    "symbol": "👜",
+                    "label": "handbag"
+                  }
+                ]
+              },
+              {
+                "caption": "Jewellery is rings, earrings, bracelets and chains. Jewellery is uncountable: we say «a lot of jewellery», not «jewelleries».",
+                "scheme": {
+                  "title": "Jewellery",
+                  "branches": [
+                    {
+                      "label": "rings",
+                      "items": [
+                        "on your fingers"
+                      ]
+                    },
+                    {
+                      "label": "earrings",
+                      "items": [
+                        "on your ears"
+                      ]
+                    },
+                    {
+                      "label": "bracelets",
+                      "items": [
+                        "on your wrists"
+                      ]
+                    },
+                    {
+                      "label": "a gold chain",
+                      "items": [
+                        "round your neck"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "An outfit is a set of clothes that you wear together. To talk about clothes in the past, use wore, the past of wear: «She wore a long blue dress and sandals.»",
+                "sentence": [
+                  {
+                    "text": "She"
+                  },
+                  {
+                    "text": "wore",
+                    "tag": "past of wear"
+                  },
+                  {
+                    "text": "a"
+                  },
+                  {
+                    "text": "long"
+                  },
+                  {
+                    "text": "blue"
+                  },
+                  {
+                    "text": "dress",
+                    "tag": "clothes"
+                  },
+                  {
+                    "text": "and"
+                  },
+                  {
+                    "text": "sandals.",
+                    "tag": "clothes"
+                  }
+                ]
+              },
+              {
+                "caption": "To say what someone has on now, use is wearing: «He's wearing a tracksuit and trainers.» A tracksuit and trainers are his outfit today.",
+                "sentence": [
+                  {
+                    "text": "He's wearing",
+                    "tag": "now"
+                  },
+                  {
+                    "text": "a"
+                  },
+                  {
+                    "text": "tracksuit",
+                    "tag": "clothes"
+                  },
+                  {
+                    "text": "and"
+                  },
+                  {
+                    "text": "trainers.",
+                    "tag": "clothes"
+                  }
+                ]
+              },
+              {
+                "caption": "Useful phrases in a clothes shop. «Try on» means put clothes on in the shop to see if they are the right size.",
+                "scheme": {
+                  "title": "In a clothes shop",
+                  "branches": [
+                    {
+                      "label": "Size",
+                      "items": [
+                        "What size are you?",
+                        "I'm a size 36.",
+                        "Small or medium?"
+                      ]
+                    },
+                    {
+                      "label": "Try on",
+                      "items": [
+                        "Can I try on this jumper?",
+                        "Can I try them on, please?"
+                      ]
+                    },
+                    {
+                      "label": "Price",
+                      "items": [
+                        "How much is this skirt?",
+                        "It's £20 (twenty pounds)."
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Test yourself: say the word in Spanish, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "🧶",
+                    "front": "jumper",
+                    "back": "Spanish: jersey"
+                  },
+                  {
+                    "symbol": "🏃",
+                    "front": "tracksuit",
+                    "back": "Spanish: chándal"
+                  },
+                  {
+                    "symbol": "🦵",
+                    "front": "tights",
+                    "back": "Spanish: medias"
+                  },
+                  {
+                    "symbol": "👟",
+                    "front": "trainers",
+                    "back": "Spanish: zapatillas de deporte"
+                  },
+                  {
+                    "symbol": "👚",
+                    "front": "blouse",
+                    "back": "Spanish: blusa"
+                  },
+                  {
+                    "symbol": "💍",
+                    "front": "jewellery",
+                    "back": "Spanish: joyas"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "clothes-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "clo-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "It's raining! Put on your ___.",
+                  "options": [
+                    "swimming costume",
+                    "raincoat",
+                    "sandals",
+                    "shorts"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A raincoat keeps you dry when it rains. A swimming costume, sandals and shorts are for hot, sunny days."
+                },
+                {
+                  "id": "clo-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "My dad wears a suit and a ___ to work.",
+                  "options": [
+                    "tights",
+                    "swimming costume",
+                    "tie"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "People often wear a tie with a suit. Tights and a swimming costume don't go with a suit at work."
+                },
+                {
+                  "id": "clo-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Rings, earrings and bracelets are all ___.",
+                  "options": [
+                    "trainers",
+                    "handbags",
+                    "tracksuits",
+                    "jewellery"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Rings, earrings, bracelets and chains are jewellery: things you wear on your fingers, ears, wrists or neck."
+                },
+                {
+                  "id": "clo-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "I always wear a ___ at the swimming pool.",
+                  "options": [
+                    "swimming costume",
+                    "jumper",
+                    "raincoat"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "You wear a swimming costume to swim. A jumper and a raincoat are for cold or rainy weather."
+                },
+                {
+                  "id": "clo-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Yesterday, she ___ a red dress to the party.",
+                  "options": [
+                    "wears",
+                    "wore",
+                    "wearing"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Yesterday is in the past, so we use wore, the past of wear."
+                },
+                {
+                  "id": "clo-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Look! He's ___ a Hawaiian shirt today.",
+                  "options": [
+                    "wore",
+                    "wear",
+                    "wears",
+                    "wearing"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "He's means he is, and is wearing tells us what someone has on now."
+                }
+              ]
+            },
+            {
+              "id": "clothes-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "clo-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Your ___ is the set of clothes that you wear together.",
+                  "options": [
+                    "outfit",
+                    "size",
+                    "handbag",
+                    "jewellery"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "An outfit is a set of clothes that you wear together, for example jeans, a T-shirt and trainers."
+                },
+                {
+                  "id": "clo-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "What size are you? I'm a ___ 36.",
+                  "options": [
+                    "small",
+                    "size",
+                    "medium"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "We say «I'm a size 36». Small and medium are sizes too, but we don't put a number after them."
+                },
+                {
+                  "id": "clo-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "These jeans look great. Can I ___ them on, please?",
+                  "options": [
+                    "wear",
+                    "take",
+                    "try"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "«Try on» means put clothes on in a shop to see if they are the right size."
+                },
+                {
+                  "id": "clo-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "It's cold today. Wear a ___ round your neck.",
+                  "options": [
+                    "bracelet",
+                    "scarf",
+                    "sandals"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A scarf goes round your neck and keeps it warm. A bracelet goes on your wrist, and sandals are summer shoes."
+                },
+                {
+                  "id": "clo-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What is Tom wearing to the party?",
+                  "audio": "Ruby: Are you wearing your suit to the party, Tom?\nTom: No, it's a fancy dress party. I'm wearing a pirate costume.\nRuby: With boots?\nTom: Yes, and a big hat!",
+                  "options": [
+                    "his suit",
+                    "a pirate costume",
+                    "a tracksuit"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Tom says it's a fancy dress party, so he isn't wearing his suit: he's wearing a pirate costume."
+                },
+                {
+                  "id": "clo-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What size does Kate want?",
+                  "audio": "Assistant: Can I help you?\nKate: Yes, I'd like this jumper, please.\nAssistant: Small or medium?\nKate: Medium, please. The small one is too tight.\nAssistant: Here you are.",
+                  "options": [
+                    "small",
+                    "medium",
+                    "large"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The assistant asks «Small or medium?» and Kate says medium, because the small one is too tight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "describing-clothes",
+          "name": "Parts, Patterns and Materials",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "Parts of clothes: a shirt has buttons, a collar round the neck and two sleeves for your arms. A T-shirt has short sleeves and a jumper has long sleeves.",
+                "tiles": [
+                  {
+                    "symbol": "🔘",
+                    "label": "button"
+                  },
+                  {
+                    "symbol": "👔",
+                    "label": "collar"
+                  },
+                  {
+                    "symbol": "💪",
+                    "label": "sleeves"
+                  }
+                ]
+              },
+              {
+                "caption": "Patterns: a striped shirt has stripes, a spotted dress has spots and a patterned skirt has a pattern, for example flowers. A plain T-shirt has no spots and no stripes.",
+                "tiles": [
+                  {
+                    "symbol": "🦓",
+                    "label": "striped: with stripes"
+                  },
+                  {
+                    "symbol": "🐞",
+                    "label": "spotted: with spots"
+                  },
+                  {
+                    "symbol": "🌸",
+                    "label": "patterned: with a pattern"
+                  },
+                  {
+                    "symbol": "⬜",
+                    "label": "plain: no spots, no stripes"
+                  }
+                ]
+              },
+              {
+                "caption": "To say what clothes are made of, use «It's made of …»: «My scarf is made of wool.» Natural materials come from plants and animals. Artificial (synthetic) materials are made in factories. Denim is made from cotton.",
+                "scheme": {
+                  "title": "It's made of …",
+                  "branches": [
+                    {
+                      "label": "Natural",
+                      "items": [
+                        "cotton",
+                        "wool",
+                        "silk",
+                        "leather",
+                        "denim (made from cotton)"
+                      ]
+                    },
+                    {
+                      "label": "Artificial (synthetic)",
+                      "items": [
+                        "nylon",
+                        "acrylic",
+                        "polyester",
+                        "synthetic fleece"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Synthetic fleece is made from plastic. When we wash it, very small pieces of plastic go into the water, so it can pollute rivers and the sea.",
+                "chain": [
+                  {
+                    "symbol": "🧴",
+                    "label": "plastic"
+                  },
+                  {
+                    "symbol": "🧥",
+                    "label": "synthetic fleece"
+                  },
+                  {
+                    "symbol": "🫧",
+                    "label": "washing"
+                  },
+                  {
+                    "symbol": "🔹",
+                    "label": "tiny pieces of plastic"
+                  },
+                  {
+                    "symbol": "🐟",
+                    "label": "water pollution"
+                  }
+                ]
+              },
+              {
+                "caption": "People like artificial textiles because they are cheaper than natural ones. Smart textiles are new materials that can change: for example, they can change colour.",
+                "tiles": [
+                  {
+                    "symbol": "💷",
+                    "label": "artificial textiles: cheaper"
+                  },
+                  {
+                    "symbol": "🌈",
+                    "label": "smart textiles: can change colour"
+                  }
+                ]
+              },
+              {
+                "caption": "Adjectives to describe clothes and people. Casual clothes are for relaxing; smart clothes are for special days.",
+                "scheme": {
+                  "title": "Describing words",
+                  "branches": [
+                    {
+                      "label": "Clothes",
+                      "items": [
+                        "casual: for relaxing",
+                        "smart: for special days",
+                        "comfortable: nice to wear",
+                        "colourful: with lots of colours",
+                        "simple: not many details"
+                      ]
+                    },
+                    {
+                      "label": "People",
+                      "items": [
+                        "neat: tidy",
+                        "well-known: famous",
+                        "talented: very good at something",
+                        "awesome: really great"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Put the describing words in this order: opinion, pattern, material, then the clothes: «a comfortable striped cotton T-shirt».",
+                "sentence": [
+                  {
+                    "text": "She's wearing"
+                  },
+                  {
+                    "text": "a"
+                  },
+                  {
+                    "text": "comfortable",
+                    "tag": "opinion"
+                  },
+                  {
+                    "text": "striped",
+                    "tag": "pattern"
+                  },
+                  {
+                    "text": "cotton",
+                    "tag": "material"
+                  },
+                  {
+                    "text": "T-shirt.",
+                    "tag": "clothes"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the word, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "🔘",
+                    "front": "Small round things that close a shirt",
+                    "back": "buttons"
+                  },
+                  {
+                    "symbol": "🦓",
+                    "front": "With stripes",
+                    "back": "striped"
+                  },
+                  {
+                    "symbol": "⬜",
+                    "front": "No spots and no stripes",
+                    "back": "plain"
+                  },
+                  {
+                    "symbol": "🐑",
+                    "front": "A natural material from sheep",
+                    "back": "wool"
+                  },
+                  {
+                    "symbol": "👖",
+                    "front": "A blue material made from cotton, used for jeans",
+                    "back": "denim"
+                  },
+                  {
+                    "symbol": "🧥",
+                    "front": "A synthetic material made from plastic that can pollute the water",
+                    "back": "synthetic fleece"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "describing-clothes-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "des-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "My shirt has long ___ for my arms.",
+                  "options": [
+                    "sleeves",
+                    "collars",
+                    "buttons"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Sleeves are the parts of a shirt or jumper that cover your arms. The collar goes round your neck."
+                },
+                {
+                  "id": "des-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "This T-shirt has no spots and no stripes. It's ___.",
+                  "options": [
+                    "striped",
+                    "plain",
+                    "spotted",
+                    "patterned"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Plain means with no spots and no stripes, and no pattern."
+                },
+                {
+                  "id": "des-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "My football shirt has red and white stripes. It's a ___ shirt.",
+                  "options": [
+                    "spotted",
+                    "plain",
+                    "striped"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "A shirt with stripes is a striped shirt. Spotted means with spots."
+                },
+                {
+                  "id": "des-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "These boots are made of ___, a natural material from animal skin.",
+                  "options": [
+                    "nylon",
+                    "polyester",
+                    "leather"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Leather is a natural material made from animal skin. Nylon and polyester are artificial materials."
+                },
+                {
+                  "id": "des-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Jeans are made of ___, which is made from cotton.",
+                  "options": [
+                    "silk",
+                    "denim",
+                    "wool",
+                    "nylon"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Jeans are made of denim, a strong material made from cotton."
+                },
+                {
+                  "id": "des-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "At the weekend I wear ___ clothes, like jeans and a T-shirt.",
+                  "options": [
+                    "smart",
+                    "well-known",
+                    "casual"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Casual clothes are for relaxing, like jeans and a T-shirt. Smart clothes are for special days."
+                }
+              ]
+            },
+            {
+              "id": "describing-clothes-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "des-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Nylon, acrylic and polyester are ___ materials.",
+                  "options": [
+                    "artificial",
+                    "natural",
+                    "leather"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Nylon, acrylic and polyester are artificial (synthetic) materials: they are made in factories, not from plants or animals."
+                },
+                {
+                  "id": "des-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "Synthetic fleece is made from ___, so it can pollute the water.",
+                  "options": [
+                    "cotton",
+                    "wool",
+                    "plastic",
+                    "silk"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Synthetic fleece is made from plastic. When we wash it, small pieces of plastic go into the water."
+                },
+                {
+                  "id": "des-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "People like artificial textiles because they are ___.",
+                  "options": [
+                    "more natural",
+                    "cheaper",
+                    "older"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Artificial textiles are popular because they are cheaper than natural materials."
+                },
+                {
+                  "id": "des-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Everyone knows her name. She's a ___ designer.",
+                  "options": [
+                    "plain",
+                    "casual",
+                    "well-known"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Well-known means famous: a lot of people know her name."
+                },
+                {
+                  "id": "des-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. Which dress does Lucy buy?",
+                  "audio": "Jack: Are you buying the striped dress, Lucy?\nLucy: No, stripes aren't my style. I like the spotted one, but it's too expensive.\nJack: What about this plain one?\nLucy: Yes, it's simple and comfortable. I'll take it.",
+                  "options": [
+                    "the striped dress",
+                    "the spotted dress",
+                    "the plain dress"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Lucy doesn't like stripes and the spotted dress is too expensive. At the end she takes the plain one."
+                },
+                {
+                  "id": "des-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What is Dan's jacket made of?",
+                  "audio": "Amy: I love your jacket, Dan! Is it made of leather?\nDan: No, it isn't. It's made of denim.\nAmy: Oh, like my jeans!\nDan: Yes, and it's really comfortable.",
+                  "options": [
+                    "leather",
+                    "wool",
+                    "denim"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Amy asks if it is leather, but Dan says no: it's made of denim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comparatives",
+          "name": "Comparing: Adjectives, Adverbs and as … as",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "To compare two things, short adjectives add -er + than. Long adjectives use more + adjective + than. Good and bad are irregular.",
+                "scheme": {
+                  "title": "Comparing two things",
+                  "branches": [
+                    {
+                      "label": "Short: adjective + -er + than",
+                      "items": [
+                        "small → smaller than",
+                        "tall → taller than",
+                        "big → bigger than"
+                      ]
+                    },
+                    {
+                      "label": "Long: more + adjective + than",
+                      "items": [
+                        "more comfortable than",
+                        "more colourful than",
+                        "more casual than"
+                      ]
+                    },
+                    {
+                      "label": "Irregular",
+                      "items": [
+                        "good → better than",
+                        "bad → worse than"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Big ends in one vowel and one consonant, so we double the g: big → bigger than. «My bag is bigger than yours.»",
+                "rewrite": [
+                  "big + -er + than",
+                  "*bigger* than"
+                ]
+              },
+              {
+                "caption": "Long adjectives don't add -er. Use more + adjective + than: «This jumper is more colourful than that one.»",
+                "sentence": [
+                  {
+                    "text": "This"
+                  },
+                  {
+                    "text": "jumper"
+                  },
+                  {
+                    "text": "is"
+                  },
+                  {
+                    "text": "more colourful",
+                    "tag": "more + long adjective"
+                  },
+                  {
+                    "text": "than",
+                    "tag": "than"
+                  },
+                  {
+                    "text": "that one."
+                  }
+                ]
+              },
+              {
+                "caption": "An adverb of manner tells us how we do something. Most are adjective + -ly: «She writes neatly.» Good → well and fast → fast are irregular: «He plays well. She runs fast.»",
+                "scheme": {
+                  "title": "Adverbs of manner: how?",
+                  "branches": [
+                    {
+                      "label": "Adjective + -ly",
+                      "items": [
+                        "neat → neatly",
+                        "quick → quickly",
+                        "slow → slowly",
+                        "careful → carefully",
+                        "bad → badly"
+                      ]
+                    },
+                    {
+                      "label": "Irregular",
+                      "items": [
+                        "good → well",
+                        "fast → fast"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "To compare how people do things, use more + adverb + than: «Ana writes more neatly than me.» Well → better and fast → faster: «Tom swims faster than Leo.»",
+                "scheme": {
+                  "title": "Comparing adverbs",
+                  "branches": [
+                    {
+                      "label": "More + adverb + than",
+                      "items": [
+                        "more neatly than",
+                        "more quickly than",
+                        "more slowly than",
+                        "more carefully than"
+                      ]
+                    },
+                    {
+                      "label": "Irregular",
+                      "items": [
+                        "well → better than",
+                        "fast → faster than"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "as + adjective or adverb + as means the same (equal): «He's as tall as Krish.» «Max plays the guitar as well as Krish.»",
+                "sentence": [
+                  {
+                    "text": "He's"
+                  },
+                  {
+                    "text": "as",
+                    "tag": "as"
+                  },
+                  {
+                    "text": "tall",
+                    "tag": "adjective"
+                  },
+                  {
+                    "text": "as",
+                    "tag": "as"
+                  },
+                  {
+                    "text": "Krish."
+                  }
+                ]
+              },
+              {
+                "caption": "not as + adjective + as means less: «Her new schoolbag is not as big as her old one.» «Ben isn't as brave as Frankie» means Frankie is braver than Ben.",
+                "sentence": [
+                  {
+                    "text": "Ben"
+                  },
+                  {
+                    "text": "isn't as",
+                    "tag": "not as"
+                  },
+                  {
+                    "text": "brave",
+                    "tag": "adjective"
+                  },
+                  {
+                    "text": "as",
+                    "tag": "as"
+                  },
+                  {
+                    "text": "Frankie."
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "🐘",
+                    "front": "big → ? than",
+                    "back": "bigger than"
+                  },
+                  {
+                    "symbol": "👟",
+                    "front": "comfortable → ? than",
+                    "back": "more comfortable than"
+                  },
+                  {
+                    "symbol": "👍",
+                    "front": "good → ? than",
+                    "back": "better than"
+                  },
+                  {
+                    "symbol": "✍️",
+                    "front": "careful → adverb",
+                    "back": "carefully"
+                  },
+                  {
+                    "symbol": "🎸",
+                    "front": "good → adverb",
+                    "back": "well"
+                  },
+                  {
+                    "symbol": "🦁",
+                    "front": "Ben isn't as brave as Frankie. Who is braver?",
+                    "back": "Frankie"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "comparatives-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "com-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "An elephant is ___ than a horse.",
+                  "options": [
+                    "more big",
+                    "bigger",
+                    "biger",
+                    "as big"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Big is a short adjective, so we add -er + than. It ends in one vowel and one consonant, so the g doubles: bigger."
+                },
+                {
+                  "id": "com-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "My new trainers are ___ than my old ones.",
+                  "options": [
+                    "more comfortable",
+                    "comfortabler",
+                    "as comfortable",
+                    "most comfortable"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Comfortable is a long adjective, so we use more + adjective + than: more comfortable than."
+                },
+                {
+                  "id": "com-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "My test was bad, but Sam's test was ___ than mine.",
+                  "options": [
+                    "badder",
+                    "more bad",
+                    "worse"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Bad is irregular: bad → worse than."
+                },
+                {
+                  "id": "com-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Please write ___. I can't read your homework!",
+                  "options": [
+                    "neat",
+                    "more neat",
+                    "neatly"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "We need an adverb to say how you write. Neat is an adjective; the adverb is neat + -ly: neatly."
+                },
+                {
+                  "id": "com-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Leo is a good swimmer. He swims very ___.",
+                  "options": [
+                    "good",
+                    "well",
+                    "better"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Good is an adjective. Its adverb is irregular: good → well. He swims well."
+                },
+                {
+                  "id": "com-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Max is 1.40 m tall and Krish is 1.40 m tall. Max is ___ Krish.",
+                  "options": [
+                    "taller than",
+                    "not as tall as",
+                    "as tall as"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "They are the same height, so we use as + adjective + as: Max is as tall as Krish."
+                }
+              ]
+            },
+            {
+              "id": "comparatives-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "com-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Lily's jumper has red, yellow, green and blue stripes. It's ___ than mine.",
+                  "options": [
+                    "colourfuller",
+                    "more colourful",
+                    "as colourful"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Colourful is a long adjective, so we use more + adjective + than: more colourful than."
+                },
+                {
+                  "id": "com-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "A car goes ___ than a bike.",
+                  "options": [
+                    "more fast",
+                    "faster",
+                    "more fastly"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Fast is irregular: the adverb is fast, and the comparative is faster than."
+                },
+                {
+                  "id": "com-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Her new schoolbag is not as ___ as her old one. The old one was bigger.",
+                  "options": [
+                    "bigger",
+                    "biggest",
+                    "big"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "After not as … as we use the normal adjective: not as big as. It means the new bag is smaller."
+                },
+                {
+                  "id": "com-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Mia checks every answer. She does her homework ___ than her brother.",
+                  "options": [
+                    "more carefully",
+                    "more careful",
+                    "carefuller"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "We need an adverb to say how she does her homework. Carefully ends in -ly, so we use more carefully than."
+                },
+                {
+                  "id": "com-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. Who is braver than Ben?",
+                  "audio": "Anna: Is Ben as brave as Frankie?\nJosh: No, Ben isn't as brave as Frankie. Frankie isn't afraid of spiders, but Ben runs away!\nAnna: And Ella?\nJosh: Ella is as brave as Ben.",
+                  "options": [
+                    "Ella",
+                    "Frankie",
+                    "nobody"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Ben isn't as brave as Frankie, so Frankie is braver than Ben. Ella is as brave as Ben: they are the same."
+                },
+                {
+                  "id": "com-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. Who plays the guitar better now?",
+                  "audio": "Lily: Max plays the guitar as well as Krish, doesn't he?\nHarry: Not now. Krish practises every day, so he plays better than Max.\nLily: And Max?\nHarry: He plays the drums more often now.",
+                  "options": [
+                    "Max",
+                    "they play the same",
+                    "Krish"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Lily thinks Max plays as well as Krish, but Harry says Krish practises every day, so now he plays better than Max."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "timetables",
+          "name": "Present Simple for Timetables",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "We can use the present simple to talk about the future when it is a timetable or a schedule: «The bus leaves in five minutes.»",
+                "sentence": [
+                  {
+                    "text": "The"
+                  },
+                  {
+                    "text": "bus"
+                  },
+                  {
+                    "text": "leaves",
+                    "tag": "present simple"
+                  },
+                  {
+                    "text": "in five minutes.",
+                    "tag": "future"
+                  }
+                ]
+              },
+              {
+                "caption": "Buses, trains, flights, shows and classes happen at fixed times, so we use the present simple for them.",
+                "tiles": [
+                  {
+                    "symbol": "🚌",
+                    "label": "The bus leaves in five minutes."
+                  },
+                  {
+                    "symbol": "👗",
+                    "label": "The fashion show starts at one o'clock tomorrow."
+                  },
+                  {
+                    "symbol": "✈️",
+                    "label": "The flight arrives in Prague at 10 a.m."
+                  }
+                ]
+              },
+              {
+                "caption": "With he, she, it or one thing, add -s or -es to the verb: the show starts, the bus leaves, the party finishes. With plural subjects there is no -s: «The models arrive at ten.»",
+                "scheme": {
+                  "title": "Present simple",
+                  "branches": [
+                    {
+                      "label": "He / she / it: verb + -s or -es",
+                      "items": [
+                        "starts",
+                        "leaves",
+                        "finishes"
+                      ]
+                    },
+                    {
+                      "label": "Plural: no -s",
+                      "items": [
+                        "The models arrive at ten.",
+                        "They have parties on Fridays."
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Questions use does or do + the base verb, with no -s: «What time does the flight leave? When does the party start? What days do they have parties?»",
+                "rewrite": [
+                  "The flight leaves at six.",
+                  "*does* the flight leave?",
+                  "What time does the flight leave?"
+                ]
+              },
+              {
+                "caption": "Negatives use doesn't or don't + the base verb: «The party doesn't start at seven.» «The shops don't open on Sundays.»",
+                "rewrite": [
+                  "The party starts at seven.",
+                  "The party *doesn't start* at seven."
+                ]
+              },
+              {
+                "caption": "Pronunciation tip: the s at the end of plural nouns or he, she and it verbs often sounds like /z/: leaves, arrives.",
+                "tiles": [
+                  {
+                    "symbol": "🍂",
+                    "label": "leaves /z/"
+                  },
+                  {
+                    "symbol": "✈️",
+                    "label": "arrives /z/"
+                  },
+                  {
+                    "symbol": "👟",
+                    "label": "trainers /z/"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "🚌",
+                    "front": "The bus ___ at 8:15. (leave)",
+                    "back": "leaves"
+                  },
+                  {
+                    "symbol": "🎉",
+                    "front": "The party ___ at ten. (finish)",
+                    "back": "finishes"
+                  },
+                  {
+                    "symbol": "👗",
+                    "front": "The models ___ at nine. (arrive)",
+                    "back": "arrive"
+                  },
+                  {
+                    "symbol": "🚆",
+                    "front": "What time ___ the train leave?",
+                    "back": "does"
+                  },
+                  {
+                    "symbol": "🎭",
+                    "front": "The show ___ start at six. (negative)",
+                    "back": "doesn't"
+                  },
+                  {
+                    "symbol": "🔊",
+                    "front": "How does the s in «arrives» sound?",
+                    "back": "/z/"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "timetables-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "tim-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "Hurry up! The bus ___ in five minutes.",
+                  "options": [
+                    "leaves",
+                    "leave",
+                    "leaving"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A bus timetable is fixed, so we use the present simple. The bus is he/she/it, so we add -s: leaves."
+                },
+                {
+                  "id": "tim-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "The fashion show ___ at one o'clock tomorrow.",
+                  "options": [
+                    "start",
+                    "starts",
+                    "starting",
+                    "started"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The show has a fixed time, so we use the present simple for the future. The show is one thing, so we add -s: starts."
+                },
+                {
+                  "id": "tim-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "The models ___ at ten o'clock.",
+                  "options": [
+                    "arrives",
+                    "arriving",
+                    "arrive"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The models is plural, so the verb has no -s: the models arrive."
+                },
+                {
+                  "id": "tim-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "What time ___ the flight leave?",
+                  "options": [
+                    "do",
+                    "does",
+                    "is"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Questions with he/she/it use does + the base verb: What time does the flight leave?"
+                },
+                {
+                  "id": "tim-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "The party ___ start at seven. It starts at eight.",
+                  "options": [
+                    "don't",
+                    "isn't",
+                    "doesn't"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Negatives with he/she/it use doesn't + the base verb: the party doesn't start."
+                },
+                {
+                  "id": "tim-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "The class ___ at half past three.",
+                  "options": [
+                    "finishs",
+                    "finishes",
+                    "finish"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Finish ends in -sh, so with he/she/it we add -es: finishes."
+                }
+              ]
+            },
+            {
+              "id": "timetables-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "tim-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "What days ___ they have parties?",
+                  "options": [
+                    "does",
+                    "are",
+                    "do"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "They is plural, so the question uses do + the base verb: What days do they have parties?"
+                },
+                {
+                  "id": "tim-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "The flight ___ in Prague at 10 a.m.",
+                  "options": [
+                    "arrives",
+                    "arrive",
+                    "arriving"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A flight timetable is fixed, so we use the present simple. The flight is one thing, so we add -s: arrives."
+                },
+                {
+                  "id": "tim-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "When does the film ___?",
+                  "options": [
+                    "starts",
+                    "start",
+                    "starting"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "After does we use the base verb with no -s: When does the film start?"
+                },
+                {
+                  "id": "tim-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "The shops ___ open on Sundays.",
+                  "options": [
+                    "doesn't",
+                    "isn't",
+                    "don't"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The shops is plural, so the negative uses don't + the base verb: the shops don't open."
+                },
+                {
+                  "id": "tim-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What time does the train leave?",
+                  "audio": "Zoe: Does the train to London leave at nine o'clock?\nAssistant: No, it doesn't. It leaves at half past nine.\nZoe: And when does it arrive?\nAssistant: It arrives at eleven o'clock.",
+                  "options": [
+                    "9:00",
+                    "9:30",
+                    "11:00"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Zoe asks about nine o'clock, but the assistant says the train leaves at half past nine. It arrives at eleven."
+                },
+                {
+                  "id": "tim-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. On which day does the fashion show start?",
+                  "audio": "Nick: Does the fashion show start on Friday, Grace?\nGrace: No, the models arrive on Friday. The show starts on Saturday and it finishes on Sunday.",
+                  "options": [
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The models arrive on Friday, the show starts on Saturday and it finishes on Sunday."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "name": "Reading Practice",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "How to do a reading task: read the questions first, so you know what to look for. Then find the key words in the text.",
+                "chain": [
+                  {
+                    "symbol": "❓",
+                    "label": "read the questions"
+                  },
+                  {
+                    "symbol": "🔑",
+                    "label": "find the key words"
+                  },
+                  {
+                    "symbol": "📄",
+                    "label": "read the text"
+                  },
+                  {
+                    "symbol": "✅",
+                    "label": "check every option"
+                  },
+                  {
+                    "symbol": "✏️",
+                    "label": "choose"
+                  }
+                ]
+              },
+              {
+                "caption": "Key words are often times, days, prices, places and names. Find them in the text: the answer is usually near them.",
+                "tiles": [
+                  {
+                    "symbol": "🕔",
+                    "label": "times: 5 p.m."
+                  },
+                  {
+                    "symbol": "📅",
+                    "label": "days: Friday"
+                  },
+                  {
+                    "symbol": "💷",
+                    "label": "prices: £12"
+                  },
+                  {
+                    "symbol": "📍",
+                    "label": "places: Grandma's house"
+                  },
+                  {
+                    "symbol": "🙂",
+                    "label": "names: Sam"
+                  }
+                ]
+              },
+              {
+                "caption": "For a message, note, sign, notice or advert, decide who writes it, to whom and why.",
+                "scheme": {
+                  "title": "Messages and signs",
+                  "branches": [
+                    {
+                      "label": "Who writes?",
+                      "items": [
+                        "Mum",
+                        "a shop",
+                        "a teacher"
+                      ]
+                    },
+                    {
+                      "label": "To whom?",
+                      "items": [
+                        "Sam",
+                        "customers",
+                        "students"
+                      ]
+                    },
+                    {
+                      "label": "Why?",
+                      "items": [
+                        "to ask someone to do something",
+                        "to give information",
+                        "to sell something"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Check every option against the text before you choose. This sign is from a shop, to customers, to sell jumpers: «Sale! All jumpers half price until Sunday.»",
+                "sentence": [
+                  {
+                    "text": "Sale!",
+                    "tag": "a shop"
+                  },
+                  {
+                    "text": "All"
+                  },
+                  {
+                    "text": "jumpers",
+                    "tag": "what?"
+                  },
+                  {
+                    "text": "half price",
+                    "tag": "why?"
+                  },
+                  {
+                    "text": "until Sunday.",
+                    "tag": "when?"
+                  }
+                ]
+              },
+              {
+                "caption": "In yes/no questions, the answer must be in the text. Don't answer with what you think or know: find the words in the text that say it.",
+                "tiles": [
+                  {
+                    "symbol": "✅",
+                    "label": "Yes: the text says it"
+                  },
+                  {
+                    "symbol": "❌",
+                    "label": "No: the text says something different"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "❓",
+                    "front": "What do you read first?",
+                    "back": "the questions"
+                  },
+                  {
+                    "symbol": "🔑",
+                    "front": "What do you look for in the text?",
+                    "back": "key words"
+                  },
+                  {
+                    "symbol": "✉️",
+                    "front": "Three things to decide about a message",
+                    "back": "who writes, to whom and why"
+                  },
+                  {
+                    "symbol": "✅",
+                    "front": "Before you choose an option…",
+                    "back": "check every option against the text"
+                  },
+                  {
+                    "symbol": "📄",
+                    "front": "Where must the answer to a yes/no question be?",
+                    "back": "in the text"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "reading-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "rea-1-1",
+                  "type": "multiple-choice",
+                  "passage": "My favourite designer\nby Nora, 11\nMy favourite designer is Kiri Moss. She lives in London and she makes colourful clothes for teenagers. Her T-shirts are made of cotton, so they're really comfortable, and her jackets are made of denim. She doesn't use synthetic fleece because it can pollute the water. Last month I wore her yellow spotted dress to my cousin's party, and everyone loved it! Her clothes aren't cheap, but they're awesome. She's very talented.",
+                  "prompt": "Why are Kiri's T-shirts comfortable?",
+                  "options": [
+                    "They're made of denim.",
+                    "They're made of cotton.",
+                    "They're cheap."
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Nora writes that Kiri's T-shirts are made of cotton, so they're really comfortable. Her jackets are denim, and her clothes aren't cheap."
+                },
+                {
+                  "id": "rea-1-2",
+                  "type": "multiple-choice",
+                  "passage": "My favourite designer\nby Nora, 11\nMy favourite designer is Kiri Moss. She lives in London and she makes colourful clothes for teenagers. Her T-shirts are made of cotton, so they're really comfortable, and her jackets are made of denim. She doesn't use synthetic fleece because it can pollute the water. Last month I wore her yellow spotted dress to my cousin's party, and everyone loved it! Her clothes aren't cheap, but they're awesome. She's very talented.",
+                  "prompt": "Does Kiri use synthetic fleece?",
+                  "options": [
+                    "Yes",
+                    "No"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The text says she doesn't use synthetic fleece because it can pollute the water."
+                },
+                {
+                  "id": "rea-1-3",
+                  "type": "multiple-choice",
+                  "passage": "My favourite designer\nby Nora, 11\nMy favourite designer is Kiri Moss. She lives in London and she makes colourful clothes for teenagers. Her T-shirts are made of cotton, so they're really comfortable, and her jackets are made of denim. She doesn't use synthetic fleece because it can pollute the water. Last month I wore her yellow spotted dress to my cousin's party, and everyone loved it! Her clothes aren't cheap, but they're awesome. She's very talented.",
+                  "prompt": "What did Nora wear to her cousin's party?",
+                  "options": [
+                    "a denim jacket",
+                    "a colourful T-shirt",
+                    "a yellow spotted dress"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Nora writes: «Last month I wore her yellow spotted dress to my cousin's party.»"
+                },
+                {
+                  "id": "rea-1-4",
+                  "type": "multiple-choice",
+                  "passage": "Hi Sam,\nYour football boots are at Grandma's house. Please get them after school, but remember she goes out at 5 p.m.!\nMum",
+                  "prompt": "What must Sam do?",
+                  "options": [
+                    "get his boots before 5 p.m.",
+                    "go to football at 5 p.m.",
+                    "buy new boots after school"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Sam must get his boots from Grandma's house before 5 p.m., because Grandma goes out at 5 p.m."
+                },
+                {
+                  "id": "rea-1-5",
+                  "type": "multiple-choice",
+                  "passage": "Hi Sam,\nYour football boots are at Grandma's house. Please get them after school, but remember she goes out at 5 p.m.!\nMum",
+                  "prompt": "Who wrote this message?",
+                  "options": [
+                    "Sam",
+                    "Grandma",
+                    "Mum"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The message ends with «Mum», so Mum wrote it to Sam."
+                },
+                {
+                  "id": "rea-1-6",
+                  "type": "multiple-choice",
+                  "passage": "Hi Sam,\nYour football boots are at Grandma's house. Please get them after school, but remember she goes out at 5 p.m.!\nMum",
+                  "prompt": "Are Sam's football boots at home?",
+                  "options": [
+                    "Yes",
+                    "No"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The message says the boots are at Grandma's house, not at home."
+                }
+              ]
+            },
+            {
+              "id": "reading-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "rea-2-1",
+                  "type": "multiple-choice",
+                  "passage": "The King and the Sea\nLong ago, King Bert lived in a castle next to the sea. His men always said, 'You're the greatest king in the world. Everything does what you say!' The king wanted to teach them something. One day he took his chair to the beach, sat down and said to the sea, 'Stop! Don't come any closer!' But the water came closer and closer. Soon it was round his feet, and his new leather boots were wet. His men tried not to laugh. The king stood up and said, 'You see? Nobody can stop the sea, not even a king!'",
+                  "prompt": "Why did the king take his chair to the beach?",
+                  "options": [
+                    "to sit in the sun",
+                    "to show that he can't stop the sea",
+                    "to watch his men swimming"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The king wanted to teach his men something: at the end he says nobody can stop the sea, not even a king."
+                },
+                {
+                  "id": "rea-2-2",
+                  "type": "multiple-choice",
+                  "passage": "The King and the Sea\nLong ago, King Bert lived in a castle next to the sea. His men always said, 'You're the greatest king in the world. Everything does what you say!' The king wanted to teach them something. One day he took his chair to the beach, sat down and said to the sea, 'Stop! Don't come any closer!' But the water came closer and closer. Soon it was round his feet, and his new leather boots were wet. His men tried not to laugh. The king stood up and said, 'You see? Nobody can stop the sea, not even a king!'",
+                  "prompt": "Did the sea stop?",
+                  "options": [
+                    "Yes",
+                    "No"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The text says the water came closer and closer, so the sea didn't stop."
+                },
+                {
+                  "id": "rea-2-3",
+                  "type": "multiple-choice",
+                  "passage": "The King and the Sea\nLong ago, King Bert lived in a castle next to the sea. His men always said, 'You're the greatest king in the world. Everything does what you say!' The king wanted to teach them something. One day he took his chair to the beach, sat down and said to the sea, 'Stop! Don't come any closer!' But the water came closer and closer. Soon it was round his feet, and his new leather boots were wet. His men tried not to laugh. The king stood up and said, 'You see? Nobody can stop the sea, not even a king!'",
+                  "prompt": "What happened to the king's boots?",
+                  "options": [
+                    "They got wet.",
+                    "He lost them.",
+                    "His men took them."
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The water was round the king's feet and his new leather boots were wet."
+                },
+                {
+                  "id": "rea-2-4",
+                  "type": "multiple-choice",
+                  "passage": "School Trip to Prague: Year 6\nFriday: The coach leaves school at 8:30 a.m. The flight leaves London at 11:15 a.m. and arrives in Prague at 2:15 p.m. Dinner at the hotel is at 7:00 p.m.\nSaturday: A walking tour of the old town in the morning and a boat trip on the river in the afternoon.\nSunday: A visit to the castle in the morning. The flight home leaves at 5:00 p.m.\nThe trip is three days long. Bring comfortable shoes and a raincoat!",
+                  "prompt": "What time is dinner on Friday?",
+                  "options": [
+                    "2:15 p.m.",
+                    "8:30 a.m.",
+                    "7:00 p.m."
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The schedule says dinner at the hotel is at 7:00 p.m. The flight arrives at 2:15 p.m. and the coach leaves at 8:30 a.m."
+                },
+                {
+                  "id": "rea-2-5",
+                  "type": "multiple-choice",
+                  "passage": "School Trip to Prague: Year 6\nFriday: The coach leaves school at 8:30 a.m. The flight leaves London at 11:15 a.m. and arrives in Prague at 2:15 p.m. Dinner at the hotel is at 7:00 p.m.\nSaturday: A walking tour of the old town in the morning and a boat trip on the river in the afternoon.\nSunday: A visit to the castle in the morning. The flight home leaves at 5:00 p.m.\nThe trip is three days long. Bring comfortable shoes and a raincoat!",
+                  "prompt": "How long is the trip?",
+                  "options": [
+                    "two days",
+                    "three days",
+                    "four days"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The schedule says the trip is three days long: Friday, Saturday and Sunday."
+                },
+                {
+                  "id": "rea-2-6",
+                  "type": "multiple-choice",
+                  "passage": "School Trip to Prague: Year 6\nFriday: The coach leaves school at 8:30 a.m. The flight leaves London at 11:15 a.m. and arrives in Prague at 2:15 p.m. Dinner at the hotel is at 7:00 p.m.\nSaturday: A walking tour of the old town in the morning and a boat trip on the river in the afternoon.\nSunday: A visit to the castle in the morning. The flight home leaves at 5:00 p.m.\nThe trip is three days long. Bring comfortable shoes and a raincoat!",
+                  "prompt": "Do the students go on a boat trip on Sunday?",
+                  "options": [
+                    "Yes",
+                    "No"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The boat trip is on Saturday afternoon. On Sunday they visit the castle and fly home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "listening",
+          "name": "Listening Practice",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "Before you listen, read the question and the options, so you know what to listen for. Then listen twice.",
+                "chain": [
+                  {
+                    "symbol": "❓",
+                    "label": "read the question"
+                  },
+                  {
+                    "symbol": "🔤",
+                    "label": "read the options"
+                  },
+                  {
+                    "symbol": "👂",
+                    "label": "listen"
+                  },
+                  {
+                    "symbol": "🔁",
+                    "label": "listen again"
+                  },
+                  {
+                    "symbol": "✅",
+                    "label": "choose"
+                  }
+                ]
+              },
+              {
+                "caption": "Listen carefully for numbers, prices (£), days and times. Thirteen and thirty sound similar: listen for the strong part, thir-TEEN and THIR-ty.",
+                "tiles": [
+                  {
+                    "symbol": "🔢",
+                    "label": "numbers: thirteen, thirty"
+                  },
+                  {
+                    "symbol": "💷",
+                    "label": "prices: £26 = twenty-six pounds"
+                  },
+                  {
+                    "symbol": "📅",
+                    "label": "days: Thursday"
+                  },
+                  {
+                    "symbol": "🕞",
+                    "label": "times: half past three"
+                  }
+                ]
+              },
+              {
+                "caption": "The speakers often talk about more than one option. Don't choose the first thing you hear: listen for the final answer.",
+                "sentence": [
+                  {
+                    "text": "Is"
+                  },
+                  {
+                    "text": "it"
+                  },
+                  {
+                    "text": "thirteen pounds?",
+                    "tag": "not the answer"
+                  },
+                  {
+                    "text": "No,"
+                  },
+                  {
+                    "text": "it's"
+                  },
+                  {
+                    "text": "twenty-six pounds.",
+                    "tag": "final answer"
+                  }
+                ]
+              },
+              {
+                "caption": "These words often show that the first idea is wrong, or that the speaker is giving the final answer.",
+                "tiles": [
+                  {
+                    "symbol": "❌",
+                    "label": "No, it isn't …"
+                  },
+                  {
+                    "symbol": "🔄",
+                    "label": "Not now. / Actually …"
+                  },
+                  {
+                    "symbol": "✅",
+                    "label": "OK, I'll take …"
+                  },
+                  {
+                    "symbol": "👍",
+                    "label": "Yes, that's right."
+                  }
+                ]
+              },
+              {
+                "caption": "Listen twice. The first time, find the answer. The second time, check it. In Brainy you can press the listen button again to hear the whole text from the start.",
+                "tiles": [
+                  {
+                    "symbol": "1️⃣",
+                    "label": "first time: find the answer"
+                  },
+                  {
+                    "symbol": "2️⃣",
+                    "label": "second time: check it"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "symbol": "❓",
+                    "front": "What do you read before you listen?",
+                    "back": "the question and the options"
+                  },
+                  {
+                    "symbol": "👂",
+                    "front": "Four things to listen for",
+                    "back": "numbers, prices, days and times"
+                  },
+                  {
+                    "symbol": "✅",
+                    "front": "The speakers say more than one option. What do you listen for?",
+                    "back": "the final answer"
+                  },
+                  {
+                    "symbol": "🔁",
+                    "front": "How many times do you listen?",
+                    "back": "twice"
+                  },
+                  {
+                    "symbol": "💷",
+                    "front": "£26",
+                    "back": "twenty-six pounds"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "listening-1",
+              "name": "Level 1",
+              "questions": [
+                {
+                  "id": "lis-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What does Ollie buy?",
+                  "audio": "Ollie: I need new shoes for sport.\nAssistant: These boots are very nice.\nOllie: Boots for sport? No, thanks. Can I see those trainers?\nAssistant: Of course.\nOllie: Great, I'll take them.",
+                  "options": [
+                    "boots",
+                    "sandals",
+                    "trainers"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The assistant shows Ollie boots, but he wants shoes for sport. He asks for the trainers and says he'll take them."
+                },
+                {
+                  "id": "lis-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What time does the fashion show start?",
+                  "audio": "Rosie: Does the fashion show start at two o'clock, Harry?\nHarry: No, the models arrive at two. The show starts at three o'clock and it finishes at five.",
+                  "options": [
+                    "2:00",
+                    "3:00",
+                    "5:00"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The models arrive at two o'clock, the show starts at three o'clock and it finishes at five."
+                },
+                {
+                  "id": "lis-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. How much is the raincoat?",
+                  "audio": "Ruby: I like the green raincoat. Is it thirteen pounds?\nAssistant: No, that's the pink one. The green one is twenty-six pounds. The blue one is thirty pounds.\nRuby: OK, I'll take the green one.",
+                  "options": [
+                    "£13",
+                    "£26",
+                    "£30"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Ruby takes the green raincoat, and the assistant says the green one is twenty-six pounds. Thirteen pounds is the pink one and thirty pounds is the blue one."
+                },
+                {
+                  "id": "lis-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. Which day is the school party this year?",
+                  "audio": "Dan: Is the school party on Friday, Amy?\nAmy: It was on Friday last year. This year it's on Thursday.\nDan: On Thursday? Great!",
+                  "options": [
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The party was on Friday last year, but this year it's on Thursday."
+                },
+                {
+                  "id": "lis-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What is Mia wearing?",
+                  "audio": "Josh: Is Mia the girl in the spotted dress?\nLily: No, that's Emma. Mia is wearing a striped T-shirt and jeans.",
+                  "options": [
+                    "a spotted dress",
+                    "a plain jumper",
+                    "a striped T-shirt and jeans"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The girl in the spotted dress is Emma. Mia is wearing a striped T-shirt and jeans."
+                },
+                {
+                  "id": "lis-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. How much are the earrings that Grace buys?",
+                  "audio": "Grace: How much are these silver earrings?\nAssistant: They're fifteen pounds.\nGrace: And the gold ones?\nAssistant: Fifty pounds.\nGrace: Oh! I'll take the silver ones, please.",
+                  "options": [
+                    "£5",
+                    "£15",
+                    "£50"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The silver earrings are fifteen pounds and the gold ones are fifty pounds. Grace takes the silver ones."
+                }
+              ]
+            },
+            {
+              "id": "listening-2",
+              "name": "Level 2",
+              "questions": [
+                {
+                  "id": "lis-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. How long is the school trip?",
+                  "audio": "Nick: Is the school trip to Prague two days long, Mrs Perkins?\nMrs Perkins: No, it's three days. We leave on Friday morning and we come back on Sunday evening.",
+                  "options": [
+                    "two days",
+                    "three days",
+                    "four days"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Nick asks about two days, but Mrs Perkins says it's three days: from Friday morning to Sunday evening."
+                },
+                {
+                  "id": "lis-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What time does the flight arrive in Prague?",
+                  "audio": "Zoe: Does our flight arrive at a quarter past one, Mrs Perkins?\nMrs Perkins: No. It leaves London at a quarter past eleven and it arrives in Prague at a quarter past two.",
+                  "options": [
+                    "11:15",
+                    "1:15",
+                    "2:15"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The flight leaves London at a quarter past eleven and arrives in Prague at a quarter past two."
+                },
+                {
+                  "id": "lis-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. Who runs faster?",
+                  "audio": "Anna: Is Leo faster than Sam, Ollie?\nOllie: Leo runs fast, but Sam runs faster. And Sam runs more carefully too, so he doesn't fall.",
+                  "options": [
+                    "Leo",
+                    "Sam",
+                    "They're as fast as each other."
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Leo runs fast, but Ollie says Sam runs faster."
+                },
+                {
+                  "id": "lis-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What is Rosie's scarf made of?",
+                  "audio": "Harry: Is your scarf made of wool, Rosie?\nRosie: No, wool isn't comfortable on my neck. It's made of silk. It was a present from my aunt.",
+                  "options": [
+                    "silk",
+                    "wool",
+                    "cotton"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Harry asks if it is wool, but Rosie says no: it's made of silk."
+                },
+                {
+                  "id": "lis-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What size does Dan want in the end?",
+                  "audio": "Assistant: What size are you?\nDan: I'm a size thirty-four.\nAssistant: Here you are. Try these trousers on.\nDan: Hmm, they're too small. Can I try on a size thirty-six?\nAssistant: Of course.",
+                  "options": [
+                    "size 34",
+                    "size 36",
+                    "size 38"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Dan says he's a size thirty-four, but those trousers are too small, so he asks to try on a size thirty-six."
+                },
+                {
+                  "id": "lis-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Listen. What time does the bus leave?",
+                  "audio": "Jack: Hurry up, Amy! The bus leaves in five minutes.\nAmy: In five minutes? The timetable says it leaves at ten past four.\nJack: Yes, and it's five past four now!",
+                  "options": [
+                    "at four o'clock",
+                    "at five past four",
+                    "at ten past four"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The timetable says the bus leaves at ten past four. It's five past four now, so it leaves in five minutes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
