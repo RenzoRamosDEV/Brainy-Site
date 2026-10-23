@@ -1,0 +1,3381 @@
+{
+  "id": "social",
+  "name": "Social Science",
+  "lang": "en",
+  "lessons": [
+    {
+      "id": "leccion-1",
+      "name": "Lesson 1",
+      "topics": [
+        {
+          "id": "mainland-relief",
+          "name": "The Relief of Mainland Spain",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "A relief map uses different colours to show the altitude of the land above sea level. Mainland Spain has a large plateau, mountain ranges and depressions.",
+                "photo": {
+                  "src": "images/social/lesson-1/01-mainland-relief/map-relief-mainland-spain.jpg",
+                  "alt": "Relief map of mainland Spain with the Meseta, the mountain ranges and the depressions coloured by altitude"
+                }
+              },
+              {
+                "caption": "The Meseta is the large central plateau of mainland Spain. The Sistema Central divides it into two parts: the Submeseta Norte and the Submeseta Sur.",
+                "tiles": [
+                  {
+                    "symbol": "⬆️",
+                    "label": "Submeseta Norte"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "Sistema Central"
+                  },
+                  {
+                    "symbol": "⬇️",
+                    "label": "Submeseta Sur"
+                  }
+                ]
+              },
+              {
+                "caption": "Some mountain ranges are in the Meseta, some surround it and others are beyond it.",
+                "scheme": {
+                  "title": "Mountain ranges",
+                  "branches": [
+                    {
+                      "label": "In the Meseta",
+                      "items": [
+                        "Sistema Central",
+                        "Montes de Toledo"
+                      ]
+                    },
+                    {
+                      "label": "Surrounding the Meseta",
+                      "items": [
+                        "Montes de León",
+                        "Cordillera Cantábrica",
+                        "Sistema Ibérico",
+                        "Sierra Morena"
+                      ]
+                    },
+                    {
+                      "label": "Beyond the Meseta",
+                      "items": [
+                        "Macizo Galaico",
+                        "Montes Vascos",
+                        "Pirineos",
+                        "Sistema Costero-Catalán",
+                        "Sistemas Béticos"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "The Montes de Toledo are a mountain range in the Meseta.",
+                "photo": {
+                  "src": "images/social/lesson-1/01-mainland-relief/photo-montes-de-toledo.jpg",
+                  "alt": "Montes de Toledo: a mountain range in the Meseta, with rounded slopes above green scrubland",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "The Cordillera Cantábrica is one of the mountain ranges surrounding the Meseta.",
+                "photo": {
+                  "src": "images/social/lesson-1/01-mainland-relief/photo-cordillera-cantabrica.jpg",
+                  "alt": "Cordillera Cantábrica: a high, rocky mountain above green slopes",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "The Pirineos are a mountain range beyond the Meseta. Aneto (3,404 m) is their highest peak.",
+                "photo": {
+                  "src": "images/social/lesson-1/01-mainland-relief/photo-pirineos.jpg",
+                  "alt": "Pirineos: high, pointed rocky peaks above a mountain lake",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Depressions are areas of land lower than the land around them. Mainland Spain has two large depressions: the Depresión del Ebro and the Depresión del Guadalquivir.",
+                "tiles": [
+                  {
+                    "symbol": "⬇️",
+                    "label": "Depresión del Ebro"
+                  },
+                  {
+                    "symbol": "⬇️",
+                    "label": "Depresión del Guadalquivir"
+                  }
+                ]
+              },
+              {
+                "caption": "The Depresión del Ebro is a large area of land lower than the land around it.",
+                "photo": {
+                  "src": "images/social/lesson-1/01-mainland-relief/photo-depresion-del-ebro.jpg",
+                  "alt": "Depresión del Ebro: low land with the river Ebro between fields and pale cliffs",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mulhacén (3,478 m), in the Sistemas Béticos, is the highest peak on the mainland. Aneto (3,404 m) is in the Pirineos. Teide (3,718 m), in the Islas Canarias, is the highest mountain in Spain.",
+                "tiles": [
+                  {
+                    "symbol": "🌋",
+                    "label": "Teide · 3,718 m · highest in Spain"
+                  },
+                  {
+                    "symbol": "🏔️",
+                    "label": "Mulhacén · 3,478 m · Sistemas Béticos"
+                  },
+                  {
+                    "symbol": "🏔️",
+                    "label": "Aneto · 3,404 m · Pirineos"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "front": "The large central plateau of mainland Spain",
+                    "back": "Meseta"
+                  },
+                  {
+                    "front": "The range that divides the Meseta into the Submeseta Norte and the Submeseta Sur",
+                    "back": "Sistema Central"
+                  },
+                  {
+                    "front": "The highest peak on the mainland, 3,478 m",
+                    "back": "Mulhacén"
+                  },
+                  {
+                    "front": "A peak in the Pirineos, 3,404 m high",
+                    "back": "Aneto"
+                  },
+                  {
+                    "front": "The highest mountain in Spain, 3,718 m",
+                    "back": "Teide"
+                  },
+                  {
+                    "front": "The two large depressions of mainland Spain",
+                    "back": "Depresión del Ebro and Depresión del Guadalquivir"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "mainland-relief-1",
+              "name": "Level 1",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "rel-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "Which mountain range divides the Meseta into the Submeseta Norte and the Submeseta Sur?",
+                  "options": [
+                    "Sistema Central",
+                    "Sistema Ibérico",
+                    "Sierra Morena",
+                    "Montes de Toledo"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Sistema Central divides the Meseta into the Submeseta Norte and the Submeseta Sur."
+                },
+                {
+                  "id": "rel-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "What is the name of the large central plateau of mainland Spain?",
+                  "options": [
+                    "Depresión del Ebro",
+                    "Meseta",
+                    "Macizo Galaico",
+                    "Depresión del Guadalquivir"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Meseta is the large central plateau of mainland Spain."
+                },
+                {
+                  "id": "rel-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which is the highest peak on the mainland?",
+                  "options": [
+                    "Aneto",
+                    "Teide",
+                    "Mulhacén",
+                    "Puig Major"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Mulhacén (3,478 m), in the Sistemas Béticos, is the highest peak on the mainland. Teide is higher, but it is in the Islas Canarias."
+                },
+                {
+                  "id": "rel-1-4",
+                  "type": "numeric",
+                  "prompt": "How many large depressions are there in mainland Spain?",
+                  "answer": 2,
+                  "explanation": "There are 2 large depressions: the Depresión del Ebro and the Depresión del Guadalquivir."
+                },
+                {
+                  "id": "rel-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Which mountain range is Aneto in?",
+                  "options": [
+                    "Sistemas Béticos",
+                    "Sistema Central",
+                    "Cordillera Cantábrica",
+                    "Pirineos"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Aneto (3,404 m) is in the Pirineos."
+                },
+                {
+                  "id": "rel-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these mountain ranges is in the Meseta?",
+                  "options": [
+                    "Montes de Toledo",
+                    "Pirineos",
+                    "Sistemas Béticos",
+                    "Macizo Galaico"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Montes de Toledo and the Sistema Central are the mountain ranges in the Meseta."
+                },
+                {
+                  "id": "rel-1-7",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means an area of land lower than the land around it?",
+                  "options": [
+                    "plateau",
+                    "depression",
+                    "peak",
+                    "mountain range"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A depression is an area of land lower than the land around it, like the Depresión del Ebro."
+                },
+                {
+                  "id": "rel-1-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which word describes the Meseta?",
+                  "options": [
+                    "plateau",
+                    "depression",
+                    "peak",
+                    "mountain range"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Meseta is the large central plateau of mainland Spain."
+                },
+                {
+                  "id": "rel-1-9",
+                  "type": "numeric",
+                  "prompt": "How high is Mulhacén, in metres?",
+                  "answer": 3478,
+                  "explanation": "Mulhacén is 3,478 m high. It is the highest peak on the mainland."
+                },
+                {
+                  "id": "rel-1-10",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these is one of the two large depressions of mainland Spain?",
+                  "options": [
+                    "Submeseta Sur",
+                    "Sistema Ibérico",
+                    "Depresión del Guadalquivir",
+                    "Macizo Galaico"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Mainland Spain has two large depressions: the Depresión del Ebro and the Depresión del Guadalquivir."
+                },
+                {
+                  "id": "rel-1-11",
+                  "type": "numeric",
+                  "prompt": "How high is Aneto, in metres?",
+                  "answer": 3404,
+                  "explanation": "Aneto, in the Pirineos, is 3,404 m high."
+                },
+                {
+                  "id": "rel-1-12",
+                  "type": "multiple-choice",
+                  "prompt": "Where is the Cordillera Cantábrica?",
+                  "options": [
+                    "In the Meseta",
+                    "Surrounding the Meseta",
+                    "Beyond the Meseta",
+                    "In the Islas Canarias"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Cordillera Cantábrica is one of the mountain ranges surrounding the Meseta."
+                },
+                {
+                  "id": "rel-1-13",
+                  "type": "multiple-choice",
+                  "prompt": "Where is Teide, the highest mountain in Spain?",
+                  "options": [
+                    "In the Pirineos",
+                    "In the Sistemas Béticos",
+                    "In the Meseta",
+                    "In the Islas Canarias"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Teide (3,718 m) is the highest mountain in Spain. It is in the Islas Canarias, not on the mainland."
+                },
+                {
+                  "id": "rel-1-14",
+                  "type": "multiple-choice",
+                  "prompt": "What does the relief of mainland Spain include?",
+                  "options": [
+                    "Volcanoes and archipelagos only",
+                    "A plateau, mountain ranges and depressions",
+                    "Only depressions",
+                    "Only mountain ranges"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Mainland Spain has a large plateau (the Meseta), mountain ranges and depressions."
+                },
+                {
+                  "id": "rel-1-15",
+                  "type": "numeric",
+                  "prompt": "Into how many parts does the Sistema Central divide the Meseta?",
+                  "answer": 2,
+                  "explanation": "The Sistema Central divides the Meseta into 2 parts: the Submeseta Norte and the Submeseta Sur."
+                },
+                {
+                  "id": "rel-1-16",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these is a peak in the Pirineos?",
+                  "options": [
+                    "Mulhacén",
+                    "Teide",
+                    "Aneto",
+                    "Sistema Central"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Aneto (3,404 m) is in the Pirineos. Mulhacén is in the Sistemas Béticos and Teide is in the Islas Canarias."
+                }
+              ]
+            },
+            {
+              "id": "mainland-relief-2",
+              "name": "Level 2",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "rel-2-1",
+                  "type": "classify",
+                  "prompt": "Sort these mountain ranges by their position.",
+                  "categories": [
+                    "In the Meseta",
+                    "Surrounding the Meseta",
+                    "Beyond the Meseta"
+                  ],
+                  "items": [
+                    {
+                      "text": "Sistema Central",
+                      "category": 0
+                    },
+                    {
+                      "text": "Montes de Toledo",
+                      "category": 0
+                    },
+                    {
+                      "text": "Sierra Morena",
+                      "category": 1
+                    },
+                    {
+                      "text": "Sistema Ibérico",
+                      "category": 1
+                    },
+                    {
+                      "text": "Cordillera Cantábrica",
+                      "category": 1
+                    },
+                    {
+                      "text": "Pirineos",
+                      "category": 2
+                    },
+                    {
+                      "text": "Sistemas Béticos",
+                      "category": 2
+                    },
+                    {
+                      "text": "Macizo Galaico",
+                      "category": 2
+                    }
+                  ],
+                  "explanation": "In the Meseta: Sistema Central and Montes de Toledo. Surrounding it: Montes de León, Cordillera Cantábrica, Sistema Ibérico and Sierra Morena. Beyond it: Macizo Galaico, Montes Vascos, Pirineos, Sistema Costero-Catalán and Sistemas Béticos."
+                },
+                {
+                  "id": "rel-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these mountain ranges surrounds the Meseta?",
+                  "options": [
+                    "Pirineos",
+                    "Sierra Morena",
+                    "Sistemas Béticos",
+                    "Montes Vascos"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Sierra Morena surrounds the Meseta, together with the Montes de León, the Cordillera Cantábrica and the Sistema Ibérico."
+                },
+                {
+                  "id": "rel-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these mountain ranges is beyond the Meseta?",
+                  "options": [
+                    "Sistema Ibérico",
+                    "Montes de León",
+                    "Sistema Costero-Catalán",
+                    "Montes de Toledo"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Sistema Costero-Catalán is beyond the Meseta. The Sistema Ibérico and the Montes de León surround it, and the Montes de Toledo are in it."
+                },
+                {
+                  "id": "rel-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Which mountain range is Mulhacén, the highest peak on the mainland, in?",
+                  "options": [
+                    "Pirineos",
+                    "Sistema Central",
+                    "Sierra Morena",
+                    "Sistemas Béticos"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Mulhacén (3,478 m) is in the Sistemas Béticos."
+                },
+                {
+                  "id": "rel-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Why is Mulhacén the highest peak on the mainland but not the highest mountain in Spain?",
+                  "options": [
+                    "Because Teide, in the Islas Canarias, is higher",
+                    "Because Aneto, in the Pirineos, is higher",
+                    "Because Mulhacén is in the Meseta",
+                    "Because Mulhacén is in the Islas Baleares"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Teide (3,718 m) is higher than Mulhacén (3,478 m), but it is not on the mainland: it is on Tenerife, in the Islas Canarias. Aneto (3,404 m) is lower than Mulhacén."
+                },
+                {
+                  "id": "rel-2-6",
+                  "type": "multiple-select",
+                  "prompt": "The Sistema Central divides the Meseta. Which are the two parts?",
+                  "options": [
+                    "Submeseta Norte",
+                    "Depresión del Ebro",
+                    "Submeseta Sur",
+                    "Macizo Galaico"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2
+                  ],
+                  "explanation": "The Sistema Central divides the Meseta into the Submeseta Norte and the Submeseta Sur."
+                },
+                {
+                  "id": "rel-2-7",
+                  "type": "multiple-select",
+                  "prompt": "Which of these mountain ranges are beyond the Meseta?",
+                  "options": [
+                    "Pirineos",
+                    "Montes de Toledo",
+                    "Macizo Galaico",
+                    "Sierra Morena",
+                    "Montes Vascos"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    4
+                  ],
+                  "explanation": "The Pirineos, the Macizo Galaico and the Montes Vascos are beyond the Meseta. The Montes de Toledo are in it and Sierra Morena surrounds it."
+                },
+                {
+                  "id": "rel-2-8",
+                  "type": "multiple-select",
+                  "prompt": "Which of these mountain ranges surround the Meseta?",
+                  "options": [
+                    "Montes de León",
+                    "Sistemas Béticos",
+                    "Cordillera Cantábrica",
+                    "Sistema Central",
+                    "Sistema Ibérico"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    4
+                  ],
+                  "explanation": "The Montes de León, the Cordillera Cantábrica and the Sistema Ibérico surround the Meseta, together with Sierra Morena. The Sistemas Béticos are beyond it and the Sistema Central is in it."
+                },
+                {
+                  "id": "rel-2-9",
+                  "type": "multiple-select",
+                  "prompt": "Which of these are the two large depressions of mainland Spain?",
+                  "options": [
+                    "Depresión del Ebro",
+                    "Submeseta Norte",
+                    "Depresión del Guadalquivir",
+                    "Meseta"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2
+                  ],
+                  "explanation": "The two large depressions are the Depresión del Ebro and the Depresión del Guadalquivir. The Submeseta Norte is part of the Meseta, the central plateau."
+                },
+                {
+                  "id": "rel-2-10",
+                  "type": "classify",
+                  "prompt": "Sort these places by the type of relief.",
+                  "categories": [
+                    "Mountain range",
+                    "Depression",
+                    "Peak"
+                  ],
+                  "items": [
+                    {
+                      "text": "Sistema Ibérico",
+                      "category": 0
+                    },
+                    {
+                      "text": "Montes de León",
+                      "category": 0
+                    },
+                    {
+                      "text": "Sierra Morena",
+                      "category": 0
+                    },
+                    {
+                      "text": "Depresión del Ebro",
+                      "category": 1
+                    },
+                    {
+                      "text": "Depresión del Guadalquivir",
+                      "category": 1
+                    },
+                    {
+                      "text": "Mulhacén",
+                      "category": 2
+                    },
+                    {
+                      "text": "Aneto",
+                      "category": 2
+                    },
+                    {
+                      "text": "Teide",
+                      "category": 2
+                    }
+                  ],
+                  "explanation": "The Sistema Ibérico, the Montes de León and Sierra Morena are mountain ranges; the Depresión del Ebro and the Depresión del Guadalquivir are depressions; Mulhacén, Aneto and Teide are peaks."
+                },
+                {
+                  "id": "rel-2-11",
+                  "type": "multiple-choice",
+                  "prompt": "Which sentence is true?",
+                  "options": [
+                    "The Meseta is a depression and the Depresión del Ebro is a plateau",
+                    "The Meseta is a mountain range and the Depresión del Ebro is a peak",
+                    "The Meseta is a plateau and the Depresión del Ebro is lower than the land around it",
+                    "The Meseta and the Depresión del Ebro are both in the Islas Canarias"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Meseta is the large central plateau of mainland Spain, and the Depresión del Ebro is a large area of land lower than the land around it."
+                },
+                {
+                  "id": "rel-2-12",
+                  "type": "multiple-choice",
+                  "prompt": "Mulhacén is 3,478 m high and Aneto is 3,404 m high. Which sentence is true?",
+                  "options": [
+                    "Aneto is higher than Mulhacén",
+                    "Mulhacén is higher than Aneto",
+                    "They are the same height",
+                    "Aneto is the highest mountain in Spain"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "3,478 m is more than 3,404 m, so Mulhacén is higher than Aneto. The highest mountain in Spain is Teide (3,718 m)."
+                },
+                {
+                  "id": "rel-2-13",
+                  "type": "multiple-choice",
+                  "prompt": "Which two mountain ranges are in the Meseta?",
+                  "options": [
+                    "The Pirineos and the Sistemas Béticos",
+                    "Sierra Morena and the Sistema Ibérico",
+                    "The Macizo Galaico and the Montes Vascos",
+                    "The Sistema Central and the Montes de Toledo"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Sistema Central and the Montes de Toledo are the mountain ranges in the Meseta."
+                },
+                {
+                  "id": "rel-2-14",
+                  "type": "multiple-choice",
+                  "prompt": "Three of these mountain ranges surround the Meseta. Which one is beyond it?",
+                  "options": [
+                    "Montes de León",
+                    "Cordillera Cantábrica",
+                    "Sistemas Béticos",
+                    "Sistema Ibérico"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Sistemas Béticos are beyond the Meseta. The Montes de León, the Cordillera Cantábrica and the Sistema Ibérico surround it."
+                },
+                {
+                  "id": "rel-2-15",
+                  "type": "multiple-choice",
+                  "prompt": "What do the Submeseta Norte and the Submeseta Sur have in common?",
+                  "options": [
+                    "They are both depressions",
+                    "They are both parts of the Meseta",
+                    "They are both mountain ranges",
+                    "They are both in the Islas Canarias"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Sistema Central divides the Meseta into two parts: the Submeseta Norte and the Submeseta Sur."
+                },
+                {
+                  "id": "rel-2-16",
+                  "type": "multiple-choice",
+                  "prompt": "Which sentence about the Depresión del Ebro is true?",
+                  "options": [
+                    "It is the large central plateau of mainland Spain",
+                    "It divides the Meseta into two parts",
+                    "It is a mountain range beyond the Meseta",
+                    "It is a large area of land lower than the land around it"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Depresión del Ebro is a depression: a large area of land lower than the land around it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "archipelagos",
+          "name": "Spain's Archipelagos",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "An archipelago is a group of islands. Spain has two main archipelagos: the Islas Canarias, in the Atlantic Ocean, and the Islas Baleares, in the Mediterranean Sea.",
+                "tiles": [
+                  {
+                    "symbol": "🌋",
+                    "label": "Islas Canarias · Atlantic Ocean"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Islas Baleares · Mediterranean Sea"
+                  }
+                ]
+              },
+              {
+                "caption": "The Islas Canarias are in the Atlantic Ocean. They have eight main islands of volcanic origin: they were formed by volcanoes.",
+                "photo": {
+                  "src": "images/social/lesson-1/02-archipelagos/map-relief-islas-canarias.jpg",
+                  "alt": "Relief map of the Islas Canarias: La Graciosa, Lanzarote, Fuerteventura, Gran Canaria, Tenerife, La Gomera, El Hierro and La Palma"
+                }
+              },
+              {
+                "caption": "La Graciosa, Lanzarote and Fuerteventura are flatter. The other islands are higher and steeper.",
+                "tiles": [
+                  {
+                    "symbol": "🏜️",
+                    "label": "La Graciosa"
+                  },
+                  {
+                    "symbol": "🏜️",
+                    "label": "Lanzarote"
+                  },
+                  {
+                    "symbol": "🏜️",
+                    "label": "Fuerteventura"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "Gran Canaria"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "Tenerife"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "La Gomera"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "El Hierro"
+                  },
+                  {
+                    "symbol": "⛰️",
+                    "label": "La Palma"
+                  }
+                ]
+              },
+              {
+                "caption": "Teide, on Tenerife, is a volcano. At 3,718 m, it is the highest mountain in Spain.",
+                "tiles": [
+                  {
+                    "symbol": "🌋",
+                    "label": "Teide"
+                  },
+                  {
+                    "symbol": "📏",
+                    "label": "3,718 m"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Tenerife"
+                  }
+                ]
+              },
+              {
+                "caption": "The Islas Baleares are in the Mediterranean Sea. They are an extension of the Sistemas Béticos.",
+                "photo": {
+                  "src": "images/social/lesson-1/02-archipelagos/map-relief-islas-baleares.jpg",
+                  "alt": "Relief map of the Islas Baleares: Mallorca, Menorca, Ibiza, Formentera and Cabrera"
+                }
+              },
+              {
+                "caption": "The Islas Baleares have five islands. Mallorca is the largest. The other islands are flatter than Mallorca.",
+                "tiles": [
+                  {
+                    "symbol": "🏝️",
+                    "label": "Mallorca"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Menorca"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Ibiza"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Formentera"
+                  },
+                  {
+                    "symbol": "🏝️",
+                    "label": "Cabrera"
+                  }
+                ]
+              },
+              {
+                "caption": "Mallorca has varied relief: the Sierra de Tramuntana and the Pla, a plain in the centre of the island. Its highest peak is Puig Major (1,436 m).",
+                "scheme": {
+                  "title": "Mallorca",
+                  "branches": [
+                    {
+                      "label": "Sierra de Tramuntana",
+                      "items": [
+                        "Mountains",
+                        "Puig Major, 1,436 m"
+                      ]
+                    },
+                    {
+                      "label": "Pla",
+                      "items": [
+                        "A plain in the centre of the island"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "front": "A group of islands",
+                    "back": "archipelago"
+                  },
+                  {
+                    "front": "A mountain formed by lava from inside the Earth, like Teide",
+                    "back": "volcano"
+                  },
+                  {
+                    "front": "The archipelago in the Atlantic Ocean, with eight main islands",
+                    "back": "Islas Canarias"
+                  },
+                  {
+                    "front": "The archipelago in the Mediterranean Sea, with five islands",
+                    "back": "Islas Baleares"
+                  },
+                  {
+                    "front": "The largest of the Islas Baleares",
+                    "back": "Mallorca"
+                  },
+                  {
+                    "front": "The plain in the centre of Mallorca",
+                    "back": "Pla"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "archipelagos-1",
+              "name": "Level 1",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "arc-1-1",
+                  "type": "numeric",
+                  "prompt": "How many main islands are there in the Islas Canarias?",
+                  "answer": 8,
+                  "explanation": "The Islas Canarias have 8 main islands: La Graciosa, Lanzarote, Fuerteventura, Gran Canaria, Tenerife, La Gomera, El Hierro and La Palma."
+                },
+                {
+                  "id": "arc-1-2",
+                  "type": "numeric",
+                  "prompt": "How many islands are there in the Islas Baleares?",
+                  "answer": 5,
+                  "explanation": "The Islas Baleares have 5 islands: Mallorca, Menorca, Ibiza, Formentera and Cabrera."
+                },
+                {
+                  "id": "arc-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these islands is in the Atlantic Ocean?",
+                  "options": [
+                    "Mallorca",
+                    "Lanzarote",
+                    "Menorca",
+                    "Ibiza"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Lanzarote is one of the Islas Canarias, in the Atlantic Ocean. Mallorca, Menorca and Ibiza are in the Mediterranean Sea."
+                },
+                {
+                  "id": "arc-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Which is the largest of the Islas Baleares?",
+                  "options": [
+                    "Menorca",
+                    "Ibiza",
+                    "Formentera",
+                    "Mallorca"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Mallorca is the largest of the Islas Baleares."
+                },
+                {
+                  "id": "arc-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Which volcano is the highest mountain in Spain?",
+                  "options": [
+                    "Teide",
+                    "Mulhacén",
+                    "Aneto",
+                    "Puig Major"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Teide, on Tenerife, is a volcano and the highest mountain in Spain (3,718 m)."
+                },
+                {
+                  "id": "arc-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "What is the highest peak of Mallorca?",
+                  "options": [
+                    "Aneto",
+                    "Puig Major",
+                    "Mulhacén",
+                    "Teide"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Puig Major (1,436 m) is the highest peak of Mallorca."
+                },
+                {
+                  "id": "arc-1-7",
+                  "type": "multiple-choice",
+                  "prompt": "What is a group of islands called?",
+                  "options": [
+                    "volcano",
+                    "archipelago",
+                    "plateau",
+                    "depression"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "An archipelago is a group of islands, like the Islas Canarias or the Islas Baleares."
+                },
+                {
+                  "id": "arc-1-8",
+                  "type": "multiple-choice",
+                  "prompt": "Where are the Islas Baleares?",
+                  "options": [
+                    "In the Atlantic Ocean",
+                    "In the Depresión del Ebro",
+                    "In the Mediterranean Sea",
+                    "In the Meseta"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Islas Baleares are in the Mediterranean Sea."
+                },
+                {
+                  "id": "arc-1-9",
+                  "type": "multiple-choice",
+                  "prompt": "Which island is Teide on?",
+                  "options": [
+                    "Gran Canaria",
+                    "La Palma",
+                    "Lanzarote",
+                    "Tenerife"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Teide, the highest mountain in Spain, is a volcano on Tenerife."
+                },
+                {
+                  "id": "arc-1-10",
+                  "type": "numeric",
+                  "prompt": "How many main archipelagos does Spain have?",
+                  "answer": 2,
+                  "explanation": "Spain has 2 main archipelagos: the Islas Canarias and the Islas Baleares."
+                },
+                {
+                  "id": "arc-1-11",
+                  "type": "numeric",
+                  "prompt": "How high is Puig Major, in metres?",
+                  "answer": 1436,
+                  "explanation": "Puig Major, the highest peak of Mallorca, is 1,436 m high."
+                },
+                {
+                  "id": "arc-1-12",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these islands is one of the Islas Canarias?",
+                  "options": [
+                    "Formentera",
+                    "Cabrera",
+                    "El Hierro",
+                    "Menorca"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "El Hierro is one of the eight main Islas Canarias. Formentera, Cabrera and Menorca are in the Islas Baleares."
+                },
+                {
+                  "id": "arc-1-13",
+                  "type": "multiple-choice",
+                  "prompt": "What is a mountain formed by lava from inside the Earth, like Teide, called?",
+                  "options": [
+                    "volcano",
+                    "plateau",
+                    "depression",
+                    "archipelago"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A volcano is a mountain formed by lava from inside the Earth. Teide is a volcano."
+                },
+                {
+                  "id": "arc-1-14",
+                  "type": "multiple-choice",
+                  "prompt": "Which mountain range is on Mallorca?",
+                  "options": [
+                    "Sierra Morena",
+                    "Sierra de Tramuntana",
+                    "Sistema Central",
+                    "Pirineos"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Sierra de Tramuntana is on Mallorca. Its highest peak is Puig Major."
+                },
+                {
+                  "id": "arc-1-15",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these islands is in the Mediterranean Sea?",
+                  "options": [
+                    "Fuerteventura",
+                    "La Gomera",
+                    "Gran Canaria",
+                    "Menorca"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Menorca is one of the Islas Baleares, in the Mediterranean Sea. Fuerteventura, La Gomera and Gran Canaria are in the Islas Canarias, in the Atlantic Ocean."
+                },
+                {
+                  "id": "arc-1-16",
+                  "type": "multiple-choice",
+                  "prompt": "Where are the Islas Canarias?",
+                  "options": [
+                    "In the Mediterranean Sea",
+                    "In the Atlantic Ocean",
+                    "In the Depresión del Guadalquivir",
+                    "In the Meseta"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Islas Canarias are in the Atlantic Ocean."
+                }
+              ]
+            },
+            {
+              "id": "archipelagos-2",
+              "name": "Level 2",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "arc-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Why are the Islas Canarias high and steep in many places?",
+                  "options": [
+                    "Because they are of volcanic origin",
+                    "Because they are an extension of the Sistemas Béticos",
+                    "Because they are in the Mediterranean Sea",
+                    "Because they are part of the Meseta"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Islas Canarias are of volcanic origin: volcanoes formed them, and many of the islands are high and steep."
+                },
+                {
+                  "id": "arc-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these islands of the Islas Canarias is one of the flatter ones?",
+                  "options": [
+                    "Tenerife",
+                    "La Palma",
+                    "Fuerteventura",
+                    "El Hierro"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "La Graciosa, Lanzarote and Fuerteventura are flatter. The other islands of the Islas Canarias are higher and steeper."
+                },
+                {
+                  "id": "arc-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "The Islas Baleares are an extension of which mountain range?",
+                  "options": [
+                    "Pirineos",
+                    "Sistemas Béticos",
+                    "Sistema Central",
+                    "Sistema Ibérico"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Islas Baleares are an extension of the Sistemas Béticos."
+                },
+                {
+                  "id": "arc-2-4",
+                  "type": "classify",
+                  "prompt": "Sort these islands into their archipelago.",
+                  "categories": [
+                    "Islas Canarias",
+                    "Islas Baleares"
+                  ],
+                  "items": [
+                    {
+                      "text": "Lanzarote",
+                      "category": 0
+                    },
+                    {
+                      "text": "La Gomera",
+                      "category": 0
+                    },
+                    {
+                      "text": "El Hierro",
+                      "category": 0
+                    },
+                    {
+                      "text": "La Graciosa",
+                      "category": 0
+                    },
+                    {
+                      "text": "Menorca",
+                      "category": 1
+                    },
+                    {
+                      "text": "Ibiza",
+                      "category": 1
+                    },
+                    {
+                      "text": "Formentera",
+                      "category": 1
+                    },
+                    {
+                      "text": "Cabrera",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "Lanzarote, La Gomera, El Hierro and La Graciosa are in the Islas Canarias. Menorca, Ibiza, Formentera and Cabrera are in the Islas Baleares."
+                },
+                {
+                  "id": "arc-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Which part of Mallorca is a plain in the centre of the island?",
+                  "options": [
+                    "Sierra de Tramuntana",
+                    "Puig Major",
+                    "Pla",
+                    "Cabrera"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Pla is a plain in the centre of Mallorca. The Sierra de Tramuntana is a mountain range and Puig Major is its highest peak."
+                },
+                {
+                  "id": "arc-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Teide is higher than the highest peak on the mainland. Which peak is that?",
+                  "options": [
+                    "Aneto",
+                    "Teide",
+                    "Puig Major",
+                    "Mulhacén"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Mulhacén (3,478 m), in the Sistemas Béticos, is the highest peak on the mainland. Teide (3,718 m) is on Tenerife, not on the mainland."
+                },
+                {
+                  "id": "arc-2-7",
+                  "type": "multiple-choice",
+                  "prompt": "Which archipelago is an extension of a mountain range of the mainland?",
+                  "options": [
+                    "The Islas Canarias",
+                    "The Islas Baleares",
+                    "Both archipelagos",
+                    "Neither archipelago"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Islas Baleares are an extension of the Sistemas Béticos. The Islas Canarias were formed by volcanoes."
+                },
+                {
+                  "id": "arc-2-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which of the Islas Baleares has the most varied relief?",
+                  "options": [
+                    "Menorca",
+                    "Formentera",
+                    "Mallorca",
+                    "Ibiza"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Mallorca has varied relief, with the Sierra de Tramuntana and the Pla. The other islands are flatter than Mallorca."
+                },
+                {
+                  "id": "arc-2-9",
+                  "type": "multiple-choice",
+                  "prompt": "Which archipelago was formed by volcanoes?",
+                  "options": [
+                    "The Islas Baleares",
+                    "The Islas Canarias",
+                    "Both archipelagos",
+                    "Neither archipelago"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Islas Canarias are of volcanic origin: they were formed by volcanoes. The Islas Baleares are an extension of the Sistemas Béticos."
+                },
+                {
+                  "id": "arc-2-10",
+                  "type": "multiple-choice",
+                  "prompt": "How is Fuerteventura different from Tenerife?",
+                  "options": [
+                    "Fuerteventura is higher and steeper",
+                    "Fuerteventura is in the Mediterranean Sea",
+                    "Fuerteventura is one of the Islas Baleares",
+                    "Fuerteventura is flatter"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Fuerteventura is one of the flatter Islas Canarias, with La Graciosa and Lanzarote. Tenerife is higher and steeper."
+                },
+                {
+                  "id": "arc-2-11",
+                  "type": "multiple-choice",
+                  "prompt": "Puig Major is the highest peak of Mallorca. Which part of the island is it in?",
+                  "options": [
+                    "The Pla",
+                    "Sierra Morena",
+                    "The Sierra de Tramuntana",
+                    "The Sistema Central"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Puig Major (1,436 m) is in the Sierra de Tramuntana. The Pla is a plain in the centre of Mallorca."
+                },
+                {
+                  "id": "arc-2-12",
+                  "type": "multiple-choice",
+                  "prompt": "La Graciosa, Lanzarote and Fuerteventura are flatter. What are the other Islas Canarias like?",
+                  "options": [
+                    "Flat plains like the Pla",
+                    "An extension of the Sistemas Béticos",
+                    "Higher and steeper",
+                    "Part of the Meseta"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Gran Canaria, Tenerife, La Gomera, El Hierro and La Palma are higher and steeper than La Graciosa, Lanzarote and Fuerteventura."
+                },
+                {
+                  "id": "arc-2-13",
+                  "type": "classify",
+                  "prompt": "Sort these islands of the Islas Canarias by their relief.",
+                  "categories": [
+                    "Flatter",
+                    "Higher and steeper"
+                  ],
+                  "items": [
+                    {
+                      "text": "La Graciosa",
+                      "category": 0
+                    },
+                    {
+                      "text": "Lanzarote",
+                      "category": 0
+                    },
+                    {
+                      "text": "Fuerteventura",
+                      "category": 0
+                    },
+                    {
+                      "text": "Gran Canaria",
+                      "category": 1
+                    },
+                    {
+                      "text": "Tenerife",
+                      "category": 1
+                    },
+                    {
+                      "text": "La Gomera",
+                      "category": 1
+                    },
+                    {
+                      "text": "El Hierro",
+                      "category": 1
+                    },
+                    {
+                      "text": "La Palma",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "La Graciosa, Lanzarote and Fuerteventura are flatter. Gran Canaria, Tenerife, La Gomera, El Hierro and La Palma are higher and steeper."
+                },
+                {
+                  "id": "arc-2-14",
+                  "type": "classify",
+                  "prompt": "Sort these places into their archipelago.",
+                  "categories": [
+                    "Islas Canarias",
+                    "Islas Baleares"
+                  ],
+                  "items": [
+                    {
+                      "text": "Teide",
+                      "category": 0
+                    },
+                    {
+                      "text": "Gran Canaria",
+                      "category": 0
+                    },
+                    {
+                      "text": "La Palma",
+                      "category": 0
+                    },
+                    {
+                      "text": "Fuerteventura",
+                      "category": 0
+                    },
+                    {
+                      "text": "Puig Major",
+                      "category": 1
+                    },
+                    {
+                      "text": "Sierra de Tramuntana",
+                      "category": 1
+                    },
+                    {
+                      "text": "Pla",
+                      "category": 1
+                    },
+                    {
+                      "text": "Mallorca",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "Teide, Gran Canaria, La Palma and Fuerteventura are in the Islas Canarias. Puig Major, the Sierra de Tramuntana and the Pla are on Mallorca, in the Islas Baleares."
+                },
+                {
+                  "id": "arc-2-15",
+                  "type": "multiple-choice",
+                  "prompt": "Which sentence about the Islas Baleares is true?",
+                  "options": [
+                    "They have eight main islands",
+                    "They are of volcanic origin",
+                    "They are in the Atlantic Ocean",
+                    "Mallorca is the largest, and the other islands are flatter"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Islas Baleares have five islands in the Mediterranean Sea. Mallorca is the largest and the other islands are flatter than Mallorca."
+                },
+                {
+                  "id": "arc-2-16",
+                  "type": "multiple-choice",
+                  "prompt": "Which sentence about the Islas Canarias is true?",
+                  "options": [
+                    "They are an extension of the Sistemas Béticos",
+                    "They have eight main islands of volcanic origin",
+                    "They are in the Mediterranean Sea",
+                    "Their highest peak is Puig Major"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Islas Canarias, in the Atlantic Ocean, have eight main islands of volcanic origin. Their highest peak is Teide."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "coasts",
+          "name": "Spain's Coasts",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "The coast is the land next to the sea. Spain has an extensive and varied coastline surrounded by the Atlantic Ocean, the Cantabrian Sea and the Mediterranean Sea, so it has three coasts: Cantabrian, Atlantic and Mediterranean. The Cantabrian coast is generally rocky, with high cliffs and small inlets, such as at Cabo de Ajo.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/map-coasts-of-spain.jpg",
+                  "alt": "Map of the coasts of Spain with their capes, gulfs, rías and deltas"
+                }
+              },
+              {
+                "caption": "Atlantic coast: the coast of Galicia is irregular, with many long inlets called rías, such as the Ría de Arousa. Cabo Fisterra is also on this coast.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-ria-de-cedeira-a-coruna.jpg",
+                  "alt": "Ría de Cedeira, A Coruña: a long inlet of the sea between green hills",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Atlantic coast: the coast of Atlantic Andalucía, on the Golfo de Cádiz, is low and sandy, with marshes near the coast.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-playa-de-matalascanas-huelva.jpg",
+                  "alt": "Playa de Matalascañas, Huelva: a low, sandy beach at sunset",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Atlantic coast: the coast of the Islas Canarias is high and rocky in the western islands and much lower in the eastern islands.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-acantilados-de-los-gigantes-tenerife.jpg",
+                  "alt": "Acantilados de Los Gigantes, Tenerife: very high cliffs above the sea",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mediterranean coast: Cataluña and the Illes Balears have high rocky areas and low sandy areas with small coves. Cabo de Creus, the Golfo de Roses and the Delta del Ebro are on the coast of Cataluña.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-cala-llombards-mallorca.jpg",
+                  "alt": "Cala Llombards, Mallorca: a small cove with a sandy beach between rocks",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mediterranean coast: the Comunitat Valenciana and the Región de Murcia have wide beaches, as along the Golfo de Valencia.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-altea-alicante.jpg",
+                  "alt": "Altea, Alicante: a wide beach on the Mediterranean coast",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mediterranean coast: Mediterranean Andalucía has beaches and cliffs. Playa de Mónsul is near Cabo de Gata.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-playa-de-monsul-almeria.jpg",
+                  "alt": "Playa de Mónsul, Almería: a beach between rocks and cliffs",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mediterranean coast: the coast of Ceuta is low.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-playa-del-chorrillo-ceuta.jpg",
+                  "alt": "Playa del Chorrillo, Ceuta: a low beach next to the town",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Mediterranean coast: the coast of Melilla is high and rocky.",
+                "photo": {
+                  "src": "images/social/lesson-1/03-coasts/photo-cliffs-melilla.jpg",
+                  "alt": "Cliffs on the coast of Melilla, high and rocky above the sea",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "front": "A point of land that sticks out into the sea, like Cabo de Gata",
+                    "back": "cape"
+                  },
+                  {
+                    "front": "A high, steep wall of rock beside the sea",
+                    "back": "cliff"
+                  },
+                  {
+                    "front": "A small, curved bay with a beach, like Cala Llombards",
+                    "back": "cove"
+                  },
+                  {
+                    "front": "A large area of sea partly surrounded by land, like the Golfo de Roses",
+                    "back": "gulf"
+                  },
+                  {
+                    "front": "A part of the sea that goes into the land, like a ría",
+                    "back": "inlet"
+                  },
+                  {
+                    "front": "Low, wet land near the coast, as in Atlantic Andalucía",
+                    "back": "marsh"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "coasts-1",
+              "name": "Level 1",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "coa-1-1",
+                  "type": "multiple-choice",
+                  "prompt": "Which coast is generally rocky, with high cliffs and small inlets?",
+                  "options": [
+                    "The coast of Atlantic Andalucía",
+                    "The Cantabrian coast",
+                    "The coast of the Comunitat Valenciana",
+                    "The coast of Ceuta"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Cantabrian coast is generally rocky, with high cliffs and small inlets."
+                },
+                {
+                  "id": "coa-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "What are the long inlets on the coast of Galicia called?",
+                  "options": [
+                    "coves",
+                    "marshes",
+                    "rías",
+                    "gulfs"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The coast of Galicia is irregular, with many long inlets called rías."
+                },
+                {
+                  "id": "coa-1-3",
+                  "type": "numeric",
+                  "prompt": "How many coasts does Spain have?",
+                  "answer": 3,
+                  "explanation": "Spain has 3 coasts: the Cantabrian coast, the Atlantic coast and the Mediterranean coast."
+                },
+                {
+                  "id": "coa-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a point of land that sticks out into the sea?",
+                  "options": [
+                    "cape",
+                    "gulf",
+                    "cove",
+                    "marsh"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A cape is a point of land that sticks out into the sea, like Cabo de Gata or Cabo Fisterra."
+                },
+                {
+                  "id": "coa-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these coasts has wide beaches?",
+                  "options": [
+                    "The Cantabrian coast",
+                    "The coast of Melilla",
+                    "The coast of the western islands of the Islas Canarias",
+                    "The coast of the Comunitat Valenciana"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Comunitat Valenciana and the Región de Murcia have wide beaches. The other coasts are rocky or high."
+                },
+                {
+                  "id": "coa-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means low, wet land near the coast?",
+                  "options": [
+                    "cliff",
+                    "marsh",
+                    "cape",
+                    "gulf"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A marsh is low, wet land, like the marshes near the coast of Atlantic Andalucía."
+                },
+                {
+                  "id": "coa-1-7",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a high, steep wall of rock beside the sea?",
+                  "options": [
+                    "cove",
+                    "marsh",
+                    "cliff",
+                    "gulf"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "A cliff is a high, steep wall of rock beside the sea, like the cliffs of the Cantabrian coast."
+                },
+                {
+                  "id": "coa-1-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a small, curved bay with a beach?",
+                  "options": [
+                    "cape",
+                    "cove",
+                    "cliff",
+                    "ría"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A cove is a small, curved bay with a beach, like Cala Llombards in Mallorca."
+                },
+                {
+                  "id": "coa-1-9",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a large area of sea partly surrounded by land?",
+                  "options": [
+                    "gulf",
+                    "cape",
+                    "marsh",
+                    "cliff"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A gulf is a large area of sea partly surrounded by land, like the Golfo de Roses."
+                },
+                {
+                  "id": "coa-1-10",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a part of the sea that goes into the land?",
+                  "options": [
+                    "cape",
+                    "cliff",
+                    "marsh",
+                    "inlet"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "An inlet is a part of the sea that goes into the land. The rías of Galicia are long inlets."
+                },
+                {
+                  "id": "coa-1-11",
+                  "type": "multiple-choice",
+                  "prompt": "What is the coast?",
+                  "options": [
+                    "A river that flows into the sea",
+                    "The land next to the sea",
+                    "A group of islands",
+                    "A plain in the centre of an island"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The coast is the land next to the sea."
+                },
+                {
+                  "id": "coa-1-12",
+                  "type": "multiple-choice",
+                  "prompt": "Which coast is Cabo de Ajo on?",
+                  "options": [
+                    "The Cantabrian coast",
+                    "The Atlantic coast",
+                    "The Mediterranean coast",
+                    "The coast of Ceuta"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Cabo de Ajo is on the Cantabrian coast, which is generally rocky, with high cliffs and small inlets."
+                },
+                {
+                  "id": "coa-1-13",
+                  "type": "multiple-choice",
+                  "prompt": "Which ría is on the coast of Galicia?",
+                  "options": [
+                    "Golfo de Roses",
+                    "Cabo de Gata",
+                    "Ría de Arousa",
+                    "Delta del Ebro"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Ría de Arousa is one of the long inlets, called rías, on the coast of Galicia."
+                },
+                {
+                  "id": "coa-1-14",
+                  "type": "multiple-choice",
+                  "prompt": "Which gulf is on the coast of Atlantic Andalucía?",
+                  "options": [
+                    "Golfo de Valencia",
+                    "Golfo de Roses",
+                    "Cabo de Creus",
+                    "Golfo de Cádiz"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The coast of Atlantic Andalucía is on the Golfo de Cádiz. The Golfo de Valencia and the Golfo de Roses are on the Mediterranean coast."
+                },
+                {
+                  "id": "coa-1-15",
+                  "type": "numeric",
+                  "prompt": "How many of these are capes: Cabo de Gata, Cabo Fisterra, Golfo de Roses, Cabo de Creus, Ría de Arousa?",
+                  "answer": 3,
+                  "explanation": "Cabo de Gata, Cabo Fisterra and Cabo de Creus are 3 capes. The Golfo de Roses is a gulf and the Ría de Arousa is a ría."
+                },
+                {
+                  "id": "coa-1-16",
+                  "type": "numeric",
+                  "prompt": "How many of these places are on the Atlantic coast: Ría de Arousa, Cabo Fisterra, Golfo de Cádiz, Cabo de Gata?",
+                  "answer": 3,
+                  "explanation": "The Ría de Arousa, Cabo Fisterra and the Golfo de Cádiz are 3 places on the Atlantic coast. Cabo de Gata is on the Mediterranean coast."
+                }
+              ]
+            },
+            {
+              "id": "coasts-2",
+              "name": "Level 2",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "coa-2-1",
+                  "type": "classify",
+                  "prompt": "Sort these coastal features by their coast.",
+                  "categories": [
+                    "Cantabrian coast",
+                    "Atlantic coast",
+                    "Mediterranean coast"
+                  ],
+                  "items": [
+                    {
+                      "text": "Cabo de Ajo",
+                      "category": 0
+                    },
+                    {
+                      "text": "Ría de Arousa",
+                      "category": 1
+                    },
+                    {
+                      "text": "Cabo Fisterra",
+                      "category": 1
+                    },
+                    {
+                      "text": "Golfo de Cádiz",
+                      "category": 1
+                    },
+                    {
+                      "text": "Golfo de Roses",
+                      "category": 2
+                    },
+                    {
+                      "text": "Cabo de Gata",
+                      "category": 2
+                    },
+                    {
+                      "text": "Delta del Ebro",
+                      "category": 2
+                    },
+                    {
+                      "text": "Cabo de Creus",
+                      "category": 2
+                    }
+                  ],
+                  "explanation": "Cabo de Ajo is on the Cantabrian coast; the Ría de Arousa, Cabo Fisterra and the Golfo de Cádiz are on the Atlantic coast; the Golfo de Roses, Cabo de Gata, the Delta del Ebro and Cabo de Creus are on the Mediterranean coast."
+                },
+                {
+                  "id": "coa-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "How is the coast of the Islas Canarias different in the western and the eastern islands?",
+                  "options": [
+                    "It is high and rocky in the western islands and much lower in the eastern islands",
+                    "It is low in the western islands and high and rocky in the eastern islands",
+                    "It has rías in the western islands and wide beaches in the eastern islands",
+                    "It has marshes in the western islands and cliffs in the eastern islands"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The coast of the Islas Canarias is high and rocky in the western islands and much lower in the eastern islands."
+                },
+                {
+                  "id": "coa-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which coast is low and sandy, with marshes near the coast?",
+                  "options": [
+                    "The Cantabrian coast",
+                    "The coast of Melilla",
+                    "The coast of Atlantic Andalucía",
+                    "The coast of Mediterranean Andalucía"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The coast of Atlantic Andalucía is low and sandy, with marshes near the coast. Mediterranean Andalucía has beaches and cliffs."
+                },
+                {
+                  "id": "coa-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Ceuta and Melilla are both on the Mediterranean coast. Which sentence is true?",
+                  "options": [
+                    "Both coasts are low",
+                    "Both coasts are high and rocky",
+                    "The coast of Ceuta is high and rocky and the coast of Melilla is low",
+                    "The coast of Ceuta is low and the coast of Melilla is high and rocky"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The coast of Ceuta is low, while the coast of Melilla is high and rocky."
+                },
+                {
+                  "id": "coa-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Where does the coast have high rocky areas and low sandy areas with small coves?",
+                  "options": [
+                    "Cataluña and the Illes Balears",
+                    "The Región de Murcia",
+                    "Atlantic Andalucía",
+                    "Ceuta"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Cataluña and the Illes Balears have high rocky areas and low sandy areas with small coves."
+                },
+                {
+                  "id": "coa-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "The Acantilados de Los Gigantes are on Tenerife. Which volcano is also on Tenerife?",
+                  "options": [
+                    "Mulhacén",
+                    "Teide",
+                    "Aneto",
+                    "Puig Major"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Teide, the highest mountain in Spain (3,718 m), is a volcano on Tenerife."
+                },
+                {
+                  "id": "coa-2-7",
+                  "type": "multiple-choice",
+                  "prompt": "Why does Spain have three coasts?",
+                  "options": [
+                    "Because it has three archipelagos",
+                    "Because it is surrounded by the Atlantic Ocean, the Cantabrian Sea and the Mediterranean Sea",
+                    "Because it has three large depressions",
+                    "Because it has three rías"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Spain is surrounded by the Atlantic Ocean, the Cantabrian Sea and the Mediterranean Sea, so it has three coasts: Atlantic, Cantabrian and Mediterranean."
+                },
+                {
+                  "id": "coa-2-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which coast is irregular, with many long inlets?",
+                  "options": [
+                    "The coast of the Región de Murcia",
+                    "The coast of Galicia",
+                    "The coast of Atlantic Andalucía",
+                    "The coast of Ceuta"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The coast of Galicia is irregular, with many long inlets called rías, such as the Ría de Arousa."
+                },
+                {
+                  "id": "coa-2-9",
+                  "type": "multiple-choice",
+                  "prompt": "Playa de Mónsul is near Cabo de Gata. What is the coast of Mediterranean Andalucía like?",
+                  "options": [
+                    "It is low and sandy, with marshes",
+                    "It has many long rías",
+                    "It has beaches and cliffs",
+                    "It is generally rocky, with small inlets"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Mediterranean Andalucía has beaches and cliffs. Atlantic Andalucía is the one that is low and sandy, with marshes."
+                },
+                {
+                  "id": "coa-2-10",
+                  "type": "multiple-choice",
+                  "prompt": "The Golfo de Valencia has wide beaches. Which other part of the Mediterranean coast also has wide beaches?",
+                  "options": [
+                    "The coast of Melilla",
+                    "The coast of Ceuta",
+                    "The Cantabrian coast",
+                    "The Región de Murcia"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Comunitat Valenciana and the Región de Murcia have wide beaches. The coast of Melilla is high and rocky and the coast of Ceuta is low."
+                },
+                {
+                  "id": "coa-2-11",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these is on the coast of Cataluña?",
+                  "options": [
+                    "Cabo Fisterra",
+                    "Cabo de Creus",
+                    "Cabo de Ajo",
+                    "Golfo de Cádiz"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Cabo de Creus, the Golfo de Roses and the Delta del Ebro are on the coast of Cataluña."
+                },
+                {
+                  "id": "coa-2-12",
+                  "type": "multiple-choice",
+                  "prompt": "Cabo Fisterra and the Ría de Arousa are on the same coast. Which coast?",
+                  "options": [
+                    "The Cantabrian coast",
+                    "The Mediterranean coast",
+                    "The Atlantic coast",
+                    "The coast of Melilla"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Cabo Fisterra and the Ría de Arousa are on the coast of Galicia, part of the Atlantic coast."
+                },
+                {
+                  "id": "coa-2-13",
+                  "type": "classify",
+                  "prompt": "Sort these coasts: are they high and rocky or low?",
+                  "categories": [
+                    "High and rocky",
+                    "Low"
+                  ],
+                  "items": [
+                    {
+                      "text": "Cantabrian coast",
+                      "category": 0
+                    },
+                    {
+                      "text": "Coast of Melilla",
+                      "category": 0
+                    },
+                    {
+                      "text": "Coast of the western Islas Canarias",
+                      "category": 0
+                    },
+                    {
+                      "text": "Coast of Atlantic Andalucía",
+                      "category": 1
+                    },
+                    {
+                      "text": "Coast of Ceuta",
+                      "category": 1
+                    },
+                    {
+                      "text": "Coast of the eastern Islas Canarias",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "The Cantabrian coast, the coast of Melilla and the coast of the western Islas Canarias are high and rocky. The coasts of Atlantic Andalucía, Ceuta and the eastern Islas Canarias are low."
+                },
+                {
+                  "id": "coa-2-14",
+                  "type": "classify",
+                  "prompt": "Sort these coastal features by their type.",
+                  "categories": [
+                    "Cape",
+                    "Gulf",
+                    "Ría"
+                  ],
+                  "items": [
+                    {
+                      "text": "Cabo de Ajo",
+                      "category": 0
+                    },
+                    {
+                      "text": "Cabo Fisterra",
+                      "category": 0
+                    },
+                    {
+                      "text": "Cabo de Gata",
+                      "category": 0
+                    },
+                    {
+                      "text": "Cabo de Creus",
+                      "category": 0
+                    },
+                    {
+                      "text": "Golfo de Cádiz",
+                      "category": 1
+                    },
+                    {
+                      "text": "Golfo de Roses",
+                      "category": 1
+                    },
+                    {
+                      "text": "Golfo de Valencia",
+                      "category": 1
+                    },
+                    {
+                      "text": "Ría de Arousa",
+                      "category": 2
+                    }
+                  ],
+                  "explanation": "Cabo de Ajo, Cabo Fisterra, Cabo de Gata and Cabo de Creus are capes; the Golfo de Cádiz, the Golfo de Roses and the Golfo de Valencia are gulfs; the Ría de Arousa is a ría."
+                },
+                {
+                  "id": "coa-2-15",
+                  "type": "multiple-choice",
+                  "prompt": "Which archipelago is part of Spain's Atlantic coast?",
+                  "options": [
+                    "The Islas Baleares",
+                    "Both archipelagos",
+                    "Neither archipelago",
+                    "The Islas Canarias"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The coast of the Islas Canarias is part of the Atlantic coast. The Illes Balears are on the Mediterranean coast."
+                },
+                {
+                  "id": "coa-2-16",
+                  "type": "multiple-choice",
+                  "prompt": "How is the Cantabrian coast different from the coast of Atlantic Andalucía?",
+                  "options": [
+                    "Both are low and sandy, with marshes",
+                    "The Cantabrian coast is rocky, with high cliffs; Atlantic Andalucía is low and sandy, with marshes",
+                    "The Cantabrian coast is low and sandy; Atlantic Andalucía has high cliffs",
+                    "The Cantabrian coast has rías; Atlantic Andalucía has volcanoes"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Cantabrian coast is generally rocky, with high cliffs and small inlets. The coast of Atlantic Andalucía is low and sandy, with marshes near the coast."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rivers",
+          "name": "Spain's Rivers",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "Spain's rivers are very different. Some are long and others are short. Some have an abundant flow all year and others have a very low flow in summer. The flow is the amount of water that a river carries.",
+                "tiles": [
+                  {
+                    "symbol": "📏",
+                    "label": "Long rivers"
+                  },
+                  {
+                    "symbol": "🤏",
+                    "label": "Short rivers"
+                  },
+                  {
+                    "symbol": "🌊",
+                    "label": "Abundant flow all year"
+                  },
+                  {
+                    "symbol": "💧",
+                    "label": "Very low flow in summer"
+                  }
+                ]
+              },
+              {
+                "caption": "There are no true rivers in the Islas Canarias and the Islas Baleares. The archipelagos have gullies and torrents that only carry water when it rains.",
+                "tiles": [
+                  {
+                    "symbol": "🏜️",
+                    "label": "Gullies"
+                  },
+                  {
+                    "symbol": "🌧️",
+                    "label": "Torrents"
+                  },
+                  {
+                    "symbol": "🚫",
+                    "label": "No true rivers on the islands"
+                  }
+                ]
+              },
+              {
+                "caption": "Rivers flow into the Mediterranean Sea, the Atlantic Ocean and the Cantabrian Sea, so Spain has three basins. A basin is an area of land where all the rivers flow into the same sea or ocean.",
+                "scheme": {
+                  "title": "Spain's three basins",
+                  "branches": [
+                    {
+                      "label": "Mediterranean basin",
+                      "items": [
+                        "Ebro",
+                        "Júcar",
+                        "Segura",
+                        "Turia"
+                      ]
+                    },
+                    {
+                      "label": "Atlantic basin",
+                      "items": [
+                        "Miño",
+                        "Duero",
+                        "Tajo",
+                        "Guadiana",
+                        "Guadalquivir"
+                      ]
+                    },
+                    {
+                      "label": "Cantabrian basin",
+                      "items": [
+                        "Nalón",
+                        "Narcea"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "caption": "Mediterranean basin: the Ebro is long, with an abundant flow. Other rivers, such as the Júcar, the Segura and the Turia, are short, with a low flow, and they are almost dry in summer.",
+                "tiles": [
+                  {
+                    "symbol": "🌊",
+                    "label": "Ebro · long, abundant flow"
+                  },
+                  {
+                    "symbol": "💧",
+                    "label": "Júcar · short, low flow"
+                  },
+                  {
+                    "symbol": "💧",
+                    "label": "Segura · short, low flow"
+                  },
+                  {
+                    "symbol": "💧",
+                    "label": "Turia · short, low flow"
+                  }
+                ]
+              },
+              {
+                "caption": "The Júcar flows into the Mediterranean Sea. It is short, with a low flow, and it is almost dry in summer.",
+                "photo": {
+                  "src": "images/social/lesson-1/04-rivers/photo-rio-jucar.jpg",
+                  "alt": "Júcar: a river between hills in the Mediterranean basin",
+                  "frame": "portrait"
+                }
+              },
+              {
+                "caption": "Atlantic basin: the rivers in Galicia, such as the Miño, are short, with an abundant flow. Others, such as the Duero, the Tajo, the Guadiana and the Guadalquivir, are long, with a lower flow in summer.",
+                "tiles": [
+                  {
+                    "symbol": "🌊",
+                    "label": "Miño · short, abundant flow"
+                  },
+                  {
+                    "symbol": "📏",
+                    "label": "Duero · long"
+                  },
+                  {
+                    "symbol": "📏",
+                    "label": "Tajo · long"
+                  },
+                  {
+                    "symbol": "📏",
+                    "label": "Guadiana · long"
+                  },
+                  {
+                    "symbol": "📏",
+                    "label": "Guadalquivir · long"
+                  }
+                ]
+              },
+              {
+                "caption": "The Tajo flows into the Atlantic Ocean. It is a long river, with a lower flow in summer.",
+                "photo": {
+                  "src": "images/social/lesson-1/04-rivers/photo-rio-tajo.jpg",
+                  "alt": "Tajo: a long river in the Atlantic basin, winding between wooded hills",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Cantabrian basin: rivers such as the Nalón and the Narcea are short because they start near the coast. They have an abundant flow because it rains frequently all year round.",
+                "chain": [
+                  {
+                    "symbol": "⛰️",
+                    "label": "Start in mountains near the coast"
+                  },
+                  {
+                    "symbol": "🤏",
+                    "label": "Short river"
+                  },
+                  {
+                    "symbol": "🌧️",
+                    "label": "Rain all year round"
+                  },
+                  {
+                    "symbol": "🌊",
+                    "label": "Abundant flow"
+                  }
+                ]
+              },
+              {
+                "caption": "The Narcea flows into the Cantabrian Sea. It is short, with an abundant flow, because it rains frequently all year round.",
+                "photo": {
+                  "src": "images/social/lesson-1/04-rivers/photo-rio-narcea.jpg",
+                  "alt": "Narcea: a short river in the Cantabrian basin, flowing through a green valley",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Climate and relief change rivers. Rivers through areas of high precipitation have an abundant flow; rivers through dry areas have a low flow and can become dry in summer. Rivers that start in mountains near the sea are short; rivers that start a long way from the sea are long.",
+                "tiles": [
+                  {
+                    "symbol": "🌧️",
+                    "label": "High precipitation → abundant flow"
+                  },
+                  {
+                    "symbol": "☀️",
+                    "label": "Dry area → low flow"
+                  },
+                  {
+                    "symbol": "🏖️",
+                    "label": "Start near the sea → short"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Start far from the sea → long"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "front": "An area of land where all the rivers flow into the same sea or ocean",
+                    "back": "basin"
+                  },
+                  {
+                    "front": "The amount of water that a river carries",
+                    "back": "flow"
+                  },
+                  {
+                    "front": "A narrow channel cut into the land that only carries water when it rains",
+                    "back": "gully"
+                  },
+                  {
+                    "front": "A fast, strong stream of water that flows after rain",
+                    "back": "torrent"
+                  },
+                  {
+                    "front": "The long river of the Mediterranean basin, with an abundant flow",
+                    "back": "Ebro"
+                  },
+                  {
+                    "front": "Two short rivers of the Cantabrian basin",
+                    "back": "Nalón and Narcea"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "rivers-1",
+              "name": "Level 1",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "riv-1-1",
+                  "type": "numeric",
+                  "prompt": "How many river basins does Spain have?",
+                  "answer": 3,
+                  "explanation": "Spain has 3 basins, because its rivers flow into the Mediterranean Sea, the Atlantic Ocean or the Cantabrian Sea."
+                },
+                {
+                  "id": "riv-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "Which river of the Mediterranean basin is long, with an abundant flow?",
+                  "options": [
+                    "Júcar",
+                    "Segura",
+                    "Ebro",
+                    "Turia"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Ebro is long, with an abundant flow. The Júcar, the Segura and the Turia are short, with a low flow."
+                },
+                {
+                  "id": "riv-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these rivers belongs to the Cantabrian basin?",
+                  "options": [
+                    "Tajo",
+                    "Nalón",
+                    "Júcar",
+                    "Guadalquivir"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Nalón belongs to the Cantabrian basin. The Tajo and the Guadalquivir are in the Atlantic basin and the Júcar in the Mediterranean basin."
+                },
+                {
+                  "id": "riv-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means the amount of water that a river carries?",
+                  "options": [
+                    "basin",
+                    "gully",
+                    "torrent",
+                    "flow"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The flow is the amount of water that a river carries."
+                },
+                {
+                  "id": "riv-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "What is an area of land where all the rivers flow into the same sea or ocean called?",
+                  "options": [
+                    "basin",
+                    "flow",
+                    "gully",
+                    "marsh"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "A basin is an area of land where all the rivers flow into the same sea or ocean."
+                },
+                {
+                  "id": "riv-1-6",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these rivers belongs to the Atlantic basin, like the Duero and the Tajo?",
+                  "options": [
+                    "Ebro",
+                    "Guadiana",
+                    "Segura",
+                    "Narcea"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Guadiana, like the Duero and the Tajo, belongs to the Atlantic basin. The Ebro and the Segura are in the Mediterranean basin and the Narcea in the Cantabrian basin."
+                },
+                {
+                  "id": "riv-1-7",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a narrow channel cut into the land that only carries water when it rains?",
+                  "options": [
+                    "torrent",
+                    "basin",
+                    "gully",
+                    "flow"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "A gully is a narrow channel cut into the land that only carries water when it rains."
+                },
+                {
+                  "id": "riv-1-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a fast, strong stream of water that flows after rain?",
+                  "options": [
+                    "flow",
+                    "torrent",
+                    "gully",
+                    "basin"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A torrent is a fast, strong stream of water that flows after rain."
+                },
+                {
+                  "id": "riv-1-9",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these rivers belongs to the Mediterranean basin?",
+                  "options": [
+                    "Turia",
+                    "Miño",
+                    "Narcea",
+                    "Duero"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Turia belongs to the Mediterranean basin. The Miño and the Duero are in the Atlantic basin and the Narcea in the Cantabrian basin."
+                },
+                {
+                  "id": "riv-1-10",
+                  "type": "multiple-choice",
+                  "prompt": "Which river of the Atlantic basin is in Galicia?",
+                  "options": [
+                    "Guadiana",
+                    "Tajo",
+                    "Guadalquivir",
+                    "Miño"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Miño is a river in Galicia. Like the other rivers in Galicia, it is short, with an abundant flow."
+                },
+                {
+                  "id": "riv-1-11",
+                  "type": "multiple-choice",
+                  "prompt": "Why does Spain have three basins?",
+                  "options": [
+                    "Because it has three long rivers",
+                    "Because its rivers flow into the Mediterranean Sea, the Atlantic Ocean or the Cantabrian Sea",
+                    "Because it has three archipelagos",
+                    "Because its rivers only carry water when it rains"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Spain's rivers flow into the Mediterranean Sea, the Atlantic Ocean or the Cantabrian Sea, so Spain has three basins."
+                },
+                {
+                  "id": "riv-1-12",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these rivers is short, with a low flow, and almost dry in summer?",
+                  "options": [
+                    "Ebro",
+                    "Tajo",
+                    "Segura",
+                    "Narcea"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Segura is short, with a low flow, and almost dry in summer. The Ebro and the Tajo are long, and the Narcea has an abundant flow."
+                },
+                {
+                  "id": "riv-1-13",
+                  "type": "numeric",
+                  "prompt": "How many of these rivers belong to the Atlantic basin: Duero, Tajo, Guadiana, Ebro?",
+                  "answer": 3,
+                  "explanation": "The Duero, the Tajo and the Guadiana are 3 rivers of the Atlantic basin. The Ebro belongs to the Mediterranean basin."
+                },
+                {
+                  "id": "riv-1-14",
+                  "type": "numeric",
+                  "prompt": "How many of these rivers are long: Ebro, Tajo, Segura, Turia?",
+                  "answer": 2,
+                  "explanation": "The Ebro and the Tajo are 2 long rivers. The Segura and the Turia are short."
+                },
+                {
+                  "id": "riv-1-15",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these rivers is long, with a lower flow in summer?",
+                  "options": [
+                    "Miño",
+                    "Nalón",
+                    "Duero",
+                    "Segura"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Duero is long, with a lower flow in summer. The Miño and the Nalón are short, with an abundant flow, and the Segura is short, with a low flow."
+                },
+                {
+                  "id": "riv-1-16",
+                  "type": "multiple-choice",
+                  "prompt": "What do the islands have instead of true rivers?",
+                  "options": [
+                    "Gullies and torrents",
+                    "Basins and deltas",
+                    "Rías and gulfs",
+                    "Marshes and capes"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Islas Canarias and the Islas Baleares have no true rivers, only gullies and torrents that carry water when it rains."
+                }
+              ]
+            },
+            {
+              "id": "rivers-2",
+              "name": "Level 2",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "riv-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Why are the rivers that flow into the Cantabrian Sea short?",
+                  "options": [
+                    "Because they flow through dry areas",
+                    "Because they start near the coast",
+                    "Because they only carry water when it rains",
+                    "Because they start a long way from the sea"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Cantabrian rivers are short because they start in mountains near the coast."
+                },
+                {
+                  "id": "riv-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "Why do the Cantabrian rivers have an abundant flow?",
+                  "options": [
+                    "Because it rains frequently all year round",
+                    "Because they are very long",
+                    "Because they flow through dry areas",
+                    "Because they flow into the Mediterranean Sea"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Cantabrian rivers have an abundant flow because it rains frequently all year round."
+                },
+                {
+                  "id": "riv-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Why are there no true rivers in the Islas Canarias and the Islas Baleares?",
+                  "options": [
+                    "Because all their water flows into the Cantabrian Sea",
+                    "Because it rains frequently all year round",
+                    "Because their gullies and torrents only carry water when it rains",
+                    "Because they are part of the Meseta"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The islands only have gullies and torrents, which carry water only when it rains, so they have no true rivers."
+                },
+                {
+                  "id": "riv-2-4",
+                  "type": "classify",
+                  "prompt": "Which basin does each river belong to?",
+                  "categories": [
+                    "Mediterranean basin",
+                    "Atlantic basin",
+                    "Cantabrian basin"
+                  ],
+                  "items": [
+                    {
+                      "text": "Júcar",
+                      "category": 0
+                    },
+                    {
+                      "text": "Segura",
+                      "category": 0
+                    },
+                    {
+                      "text": "Turia",
+                      "category": 0
+                    },
+                    {
+                      "text": "Miño",
+                      "category": 1
+                    },
+                    {
+                      "text": "Duero",
+                      "category": 1
+                    },
+                    {
+                      "text": "Guadalquivir",
+                      "category": 1
+                    },
+                    {
+                      "text": "Narcea",
+                      "category": 2
+                    },
+                    {
+                      "text": "Nalón",
+                      "category": 2
+                    }
+                  ],
+                  "explanation": "The Júcar, the Segura and the Turia are in the Mediterranean basin; the Miño, the Duero and the Guadalquivir in the Atlantic basin; the Narcea and the Nalón in the Cantabrian basin."
+                },
+                {
+                  "id": "riv-2-5",
+                  "type": "multiple-choice",
+                  "prompt": "Why do rivers such as the Júcar and the Segura have a low flow and are almost dry in summer?",
+                  "options": [
+                    "Because it rains frequently all year round",
+                    "Because they start a long way from the sea",
+                    "Because they flow into the Cantabrian Sea",
+                    "Because they flow through dry areas"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Rivers that flow through dry areas have a low flow and can become dry in summer."
+                },
+                {
+                  "id": "riv-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "The Ebro reaches the sea at the Delta del Ebro. Which coast is the Delta del Ebro on?",
+                  "options": [
+                    "The Mediterranean coast",
+                    "The Cantabrian coast",
+                    "The Atlantic coast of Galicia",
+                    "The Atlantic coast of Andalucía"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The Delta del Ebro is on the Mediterranean coast, in Cataluña."
+                },
+                {
+                  "id": "riv-2-7",
+                  "type": "multiple-choice",
+                  "prompt": "Why are the Duero and the Tajo long rivers?",
+                  "options": [
+                    "Because they start near the coast",
+                    "Because it rains frequently all year round",
+                    "Because they start a long way from the sea",
+                    "Because they only carry water when it rains"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Rivers that start a long way from the sea are long, like the Duero and the Tajo."
+                },
+                {
+                  "id": "riv-2-8",
+                  "type": "multiple-choice",
+                  "prompt": "A river flows through an area of high precipitation. What is its flow like?",
+                  "options": [
+                    "Low",
+                    "Abundant",
+                    "Almost dry in summer",
+                    "It only carries water when it rains"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Rivers that flow through areas of high precipitation have an abundant flow."
+                },
+                {
+                  "id": "riv-2-9",
+                  "type": "multiple-choice",
+                  "prompt": "Which river is short but has an abundant flow?",
+                  "options": [
+                    "Segura",
+                    "Turia",
+                    "Narcea",
+                    "Guadiana"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Narcea is short because it starts near the coast, and it has an abundant flow because it rains frequently all year round."
+                },
+                {
+                  "id": "riv-2-10",
+                  "type": "multiple-choice",
+                  "prompt": "What happens to the flow of long rivers of the Atlantic basin, such as the Guadiana, in summer?",
+                  "options": [
+                    "It becomes lower",
+                    "It becomes higher",
+                    "It stays the same",
+                    "It turns into a torrent"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The long rivers of the Atlantic basin, such as the Duero, the Tajo, the Guadiana and the Guadalquivir, have a lower flow in summer."
+                },
+                {
+                  "id": "riv-2-11",
+                  "type": "multiple-choice",
+                  "prompt": "Which basin does the Guadalquivir belong to?",
+                  "options": [
+                    "Mediterranean basin",
+                    "Atlantic basin",
+                    "Cantabrian basin",
+                    "It belongs to no basin"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Guadalquivir belongs to the Atlantic basin, like the Miño, the Duero, the Tajo and the Guadiana."
+                },
+                {
+                  "id": "riv-2-12",
+                  "type": "multiple-choice",
+                  "prompt": "A river starts in mountains near the sea and flows through an area of high precipitation. What is it like?",
+                  "options": [
+                    "Long, with an abundant flow",
+                    "Short, with a low flow",
+                    "Short, with an abundant flow",
+                    "Long, with a low flow"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Rivers that start in mountains near the sea are short, and rivers through areas of high precipitation have an abundant flow, like the Nalón and the Narcea."
+                },
+                {
+                  "id": "riv-2-13",
+                  "type": "multiple-choice",
+                  "prompt": "A river starts a long way from the sea and flows through dry areas. What is it like?",
+                  "options": [
+                    "Short, with an abundant flow",
+                    "Short, with a low flow",
+                    "Long, with an abundant flow",
+                    "Long, with a low flow"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Rivers that start a long way from the sea are long, and rivers through dry areas have a low flow."
+                },
+                {
+                  "id": "riv-2-14",
+                  "type": "classify",
+                  "prompt": "Sort these rivers by their length.",
+                  "categories": [
+                    "Long rivers",
+                    "Short rivers"
+                  ],
+                  "items": [
+                    {
+                      "text": "Ebro",
+                      "category": 0
+                    },
+                    {
+                      "text": "Duero",
+                      "category": 0
+                    },
+                    {
+                      "text": "Tajo",
+                      "category": 0
+                    },
+                    {
+                      "text": "Guadalquivir",
+                      "category": 0
+                    },
+                    {
+                      "text": "Júcar",
+                      "category": 1
+                    },
+                    {
+                      "text": "Segura",
+                      "category": 1
+                    },
+                    {
+                      "text": "Miño",
+                      "category": 1
+                    },
+                    {
+                      "text": "Nalón",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "The Ebro, the Duero, the Tajo and the Guadalquivir are long. The Júcar, the Segura, the Miño and the Nalón are short."
+                },
+                {
+                  "id": "riv-2-15",
+                  "type": "classify",
+                  "prompt": "Sort these rivers by their flow.",
+                  "categories": [
+                    "Abundant flow",
+                    "Low flow, almost dry in summer"
+                  ],
+                  "items": [
+                    {
+                      "text": "Ebro",
+                      "category": 0
+                    },
+                    {
+                      "text": "Miño",
+                      "category": 0
+                    },
+                    {
+                      "text": "Nalón",
+                      "category": 0
+                    },
+                    {
+                      "text": "Narcea",
+                      "category": 0
+                    },
+                    {
+                      "text": "Júcar",
+                      "category": 1
+                    },
+                    {
+                      "text": "Segura",
+                      "category": 1
+                    },
+                    {
+                      "text": "Turia",
+                      "category": 1
+                    }
+                  ],
+                  "explanation": "The Ebro, the Miño, the Nalón and the Narcea have an abundant flow. The Júcar, the Segura and the Turia have a low flow and are almost dry in summer."
+                },
+                {
+                  "id": "riv-2-16",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these places has no true rivers?",
+                  "options": [
+                    "Galicia",
+                    "The Islas Canarias",
+                    "The Depresión del Ebro",
+                    "The Delta del Ebro"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "There are no true rivers in the Islas Canarias, only gullies and torrents. Galicia has rivers such as the Miño, and the Ebro flows to the Delta del Ebro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "protected-areas",
+          "name": "Protected Areas of Spain",
+          "explanation": {
+            "steps": [
+              {
+                "caption": "Human activities can damage landscapes. So the authorities create protected areas in places of high ecological value.",
+                "chain": [
+                  {
+                    "symbol": "🏭",
+                    "label": "Human activities"
+                  },
+                  {
+                    "symbol": "🍂",
+                    "label": "Damaged landscapes"
+                  },
+                  {
+                    "symbol": "🛡️",
+                    "label": "Protected areas"
+                  }
+                ]
+              },
+              {
+                "caption": "The authorities recover damaged areas by removing waste, planting trees and removing pollutants from the water. They prevent harmful activities with studies of their impact on the environment.",
+                "tiles": [
+                  {
+                    "symbol": "🗑️",
+                    "label": "Removing waste"
+                  },
+                  {
+                    "symbol": "🌱",
+                    "label": "Planting trees"
+                  },
+                  {
+                    "symbol": "💧",
+                    "label": "Removing pollutants from the water"
+                  },
+                  {
+                    "symbol": "📋",
+                    "label": "Studies of the impact on the environment"
+                  }
+                ]
+              },
+              {
+                "caption": "There are different types of protected areas. A national park has the highest level of protection.",
+                "tiles": [
+                  {
+                    "symbol": "🏞️",
+                    "label": "National parks"
+                  },
+                  {
+                    "symbol": "🌳",
+                    "label": "Natural parks"
+                  },
+                  {
+                    "symbol": "🦌",
+                    "label": "Nature reserves"
+                  },
+                  {
+                    "symbol": "🪨",
+                    "label": "Natural monuments"
+                  },
+                  {
+                    "symbol": "🐠",
+                    "label": "Marine protected areas"
+                  }
+                ]
+              },
+              {
+                "caption": "Spain has 16 national parks. They represent mountains, wetlands, Mediterranean forests, the landscapes of the Islas Canarias and marine areas.",
+                "tiles": [
+                  {
+                    "symbol": "🏔️",
+                    "label": "Mountains"
+                  },
+                  {
+                    "symbol": "🦆",
+                    "label": "Wetlands"
+                  },
+                  {
+                    "symbol": "🌳",
+                    "label": "Mediterranean forests"
+                  },
+                  {
+                    "symbol": "🌋",
+                    "label": "Landscapes of the Islas Canarias"
+                  },
+                  {
+                    "symbol": "🐠",
+                    "label": "Marine areas"
+                  }
+                ]
+              },
+              {
+                "caption": "Spain's 16 national parks, part 1: Picos de Europa, Islas Atlánticas de Galicia, Ordesa y Monte Perdido, Aigüestortes i Estany de Sant Maurici, Sierra de Guadarrama, Monfragüe, Cabañeros and Tablas de Daimiel.",
+                "tiles": [
+                  {
+                    "symbol": "🏞️",
+                    "label": "Picos de Europa"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Islas Atlánticas de Galicia"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Ordesa y Monte Perdido"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Aigüestortes i Estany de Sant Maurici"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Sierra de Guadarrama"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Monfragüe"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Cabañeros"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Tablas de Daimiel"
+                  }
+                ]
+              },
+              {
+                "caption": "Spain's 16 national parks, part 2: Doñana, Sierra Nevada, Sierra de las Nieves, Archipiélago de Cabrera, Caldera de Taburiente, Garajonay, Teide and Timanfaya.",
+                "tiles": [
+                  {
+                    "symbol": "🏞️",
+                    "label": "Doñana"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Sierra Nevada"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Sierra de las Nieves"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Archipiélago de Cabrera"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Caldera de Taburiente"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Garajonay"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Teide"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Timanfaya"
+                  }
+                ]
+              },
+              {
+                "caption": "Wetlands are flat areas covered by salt or fresh water, permanently or temporarily. They include lagoons, deltas, marshes and lakes, such as the Tablas de Daimiel, the Delta del Ebro and Doñana.",
+                "tiles": [
+                  {
+                    "symbol": "💧",
+                    "label": "Lagoons"
+                  },
+                  {
+                    "symbol": "🌊",
+                    "label": "Deltas"
+                  },
+                  {
+                    "symbol": "🌾",
+                    "label": "Marshes"
+                  },
+                  {
+                    "symbol": "🏞️",
+                    "label": "Lakes"
+                  }
+                ]
+              },
+              {
+                "caption": "The Tablas de Daimiel, in Ciudad Real, are a wetland protected as the Parque Nacional de las Tablas de Daimiel.",
+                "photo": {
+                  "src": "images/social/lesson-1/05-protected-areas/photo-tablas-de-daimiel-ciudad-real.jpg",
+                  "alt": "Tablas de Daimiel, Ciudad Real: a wetland with shallow water, reeds and a wooden walkway",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "The Delta del Ebro, in Tarragona, is a delta: a wetland where the river Ebro meets the Mediterranean Sea.",
+                "photo": {
+                  "src": "images/social/lesson-1/05-protected-areas/photo-delta-del-ebro-tarragona.jpg",
+                  "alt": "Delta del Ebro, Tarragona: a flat delta wetland with birds flying over the water at sunset",
+                  "frame": "landscape"
+                }
+              },
+              {
+                "caption": "Wetlands are home to a great variety of animals and plants. They are stopover points for European birds migrating to Africa, and they help combat climate change by capturing carbon and reducing atmospheric greenhouse gases.",
+                "tiles": [
+                  {
+                    "symbol": "🐸",
+                    "label": "Many animals and plants"
+                  },
+                  {
+                    "symbol": "🐦",
+                    "label": "Stopover for birds migrating to Africa"
+                  },
+                  {
+                    "symbol": "🌍",
+                    "label": "Capture carbon and reduce greenhouse gases"
+                  }
+                ]
+              },
+              {
+                "caption": "More than half of the wetlands have disappeared or suffer from overexploitation of groundwater, water pollution caused by fertilisers and pesticides, and the expansion of human settlements. They are protected by restrictions on water extraction, hunting or fishing, and some are protected areas, such as the Parque Nacional de las Tablas de Daimiel.",
+                "tiles": [
+                  {
+                    "symbol": "⚠️",
+                    "label": "Overexploitation of groundwater"
+                  },
+                  {
+                    "symbol": "🧪",
+                    "label": "Pollution from fertilisers and pesticides"
+                  },
+                  {
+                    "symbol": "🏘️",
+                    "label": "Expansion of human settlements"
+                  },
+                  {
+                    "symbol": "🚫",
+                    "label": "Restrictions on water extraction, hunting or fishing"
+                  }
+                ]
+              },
+              {
+                "caption": "Test yourself: read each clue, say the answer, then tap the card to check.",
+                "cards": [
+                  {
+                    "front": "An area of high ecological value that the authorities protect",
+                    "back": "protected area"
+                  },
+                  {
+                    "front": "The type of protected area with the highest level of protection",
+                    "back": "national park"
+                  },
+                  {
+                    "front": "A flat area covered by salt or fresh water, permanently or temporarily",
+                    "back": "wetland"
+                  },
+                  {
+                    "front": "The number of national parks in Spain",
+                    "back": "16"
+                  },
+                  {
+                    "front": "A wetland that is protected as a national park",
+                    "back": "Tablas de Daimiel"
+                  },
+                  {
+                    "front": "A national park on Tenerife, named after its volcano",
+                    "back": "Teide"
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            {
+              "id": "protected-areas-1",
+              "name": "Level 1",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "pro-1-1",
+                  "type": "numeric",
+                  "prompt": "How many national parks are there in Spain?",
+                  "answer": 16,
+                  "explanation": "Spain has 16 national parks."
+                },
+                {
+                  "id": "pro-1-2",
+                  "type": "multiple-choice",
+                  "prompt": "Which type of protected area has the highest level of protection?",
+                  "options": [
+                    "natural park",
+                    "national park",
+                    "nature reserve",
+                    "natural monument"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A national park has the highest level of protection."
+                },
+                {
+                  "id": "pro-1-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these is a national park?",
+                  "options": [
+                    "Sierra Morena",
+                    "Depresión del Ebro",
+                    "Doñana",
+                    "Meseta"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Doñana is one of Spain's 16 national parks."
+                },
+                {
+                  "id": "pro-1-4",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a flat area covered by salt or fresh water, permanently or temporarily?",
+                  "options": [
+                    "basin",
+                    "gully",
+                    "cape",
+                    "wetland"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "A wetland is a flat area covered by salt or fresh water, permanently or temporarily."
+                },
+                {
+                  "id": "pro-1-5",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these national parks is in the Islas Canarias?",
+                  "options": [
+                    "Timanfaya",
+                    "Doñana",
+                    "Monfragüe",
+                    "Picos de Europa"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Timanfaya is a national park in the Islas Canarias, like Teide, Caldera de Taburiente and Garajonay."
+                },
+                {
+                  "id": "pro-1-6",
+                  "type": "multiple-select",
+                  "prompt": "Which of these are types of protected areas?",
+                  "options": [
+                    "national parks",
+                    "natural parks",
+                    "basins",
+                    "nature reserves",
+                    "gullies"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    1,
+                    3
+                  ],
+                  "explanation": "National parks, natural parks, nature reserves, natural monuments and marine protected areas are types of protected areas. Basins and gullies are about rivers."
+                },
+                {
+                  "id": "pro-1-7",
+                  "type": "multiple-choice",
+                  "prompt": "Which national park is on Tenerife and is named after its volcano?",
+                  "options": [
+                    "Timanfaya",
+                    "Garajonay",
+                    "Teide",
+                    "Caldera de Taburiente"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The Teide national park is on Tenerife. It is named after Teide, the volcano that is the highest mountain in Spain."
+                },
+                {
+                  "id": "pro-1-8",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these national parks is in the Islas Baleares?",
+                  "options": [
+                    "Garajonay",
+                    "Archipiélago de Cabrera",
+                    "Timanfaya",
+                    "Caldera de Taburiente"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Cabrera is one of the Islas Baleares, so the Archipiélago de Cabrera national park is there. Garajonay, Timanfaya and Caldera de Taburiente are in the Islas Canarias."
+                },
+                {
+                  "id": "pro-1-9",
+                  "type": "multiple-choice",
+                  "prompt": "What are the Tablas de Daimiel?",
+                  "options": [
+                    "A volcano",
+                    "A mountain range",
+                    "A cape",
+                    "A wetland protected as a national park"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Tablas de Daimiel, in Ciudad Real, are a wetland protected as the Parque Nacional de las Tablas de Daimiel."
+                },
+                {
+                  "id": "pro-1-10",
+                  "type": "numeric",
+                  "prompt": "How many of these are national parks: Doñana, Teide, Meseta, Timanfaya?",
+                  "answer": 3,
+                  "explanation": "Doñana, Teide and Timanfaya are 3 of Spain's 16 national parks. The Meseta is the central plateau of mainland Spain."
+                },
+                {
+                  "id": "pro-1-11",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these is a way to recover a damaged area?",
+                  "options": [
+                    "Expanding human settlements",
+                    "Using more pesticides",
+                    "Planting trees",
+                    "Overexploiting groundwater"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "The authorities recover damaged areas by removing waste, planting trees and removing pollutants from the water."
+                },
+                {
+                  "id": "pro-1-12",
+                  "type": "multiple-select",
+                  "prompt": "Which of these are wetlands?",
+                  "options": [
+                    "Doñana",
+                    "Teide",
+                    "Tablas de Daimiel",
+                    "Delta del Ebro",
+                    "Timanfaya"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    3
+                  ],
+                  "explanation": "Doñana, the Tablas de Daimiel and the Delta del Ebro are wetlands. Teide and Timanfaya are national parks in the Islas Canarias."
+                },
+                {
+                  "id": "pro-1-13",
+                  "type": "multiple-select",
+                  "prompt": "Which of these national parks are in the Islas Canarias?",
+                  "options": [
+                    "Garajonay",
+                    "Monfragüe",
+                    "Caldera de Taburiente",
+                    "Cabañeros",
+                    "Timanfaya"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    4
+                  ],
+                  "explanation": "Garajonay, Caldera de Taburiente and Timanfaya are in the Islas Canarias, like Teide."
+                },
+                {
+                  "id": "pro-1-14",
+                  "type": "multiple-choice",
+                  "prompt": "Which word means a wetland where a river meets the sea, like the Delta del Ebro?",
+                  "options": [
+                    "gulf",
+                    "delta",
+                    "cape",
+                    "basin"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "A delta is a wetland where a river meets the sea. The Delta del Ebro is where the river Ebro meets the Mediterranean Sea."
+                },
+                {
+                  "id": "pro-1-15",
+                  "type": "multiple-choice",
+                  "prompt": "What do the authorities create in places of high ecological value?",
+                  "options": [
+                    "Human settlements",
+                    "Basins",
+                    "Torrents",
+                    "Protected areas"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Human activities can damage landscapes, so the authorities create protected areas in places of high ecological value."
+                },
+                {
+                  "id": "pro-1-16",
+                  "type": "multiple-choice",
+                  "prompt": "How do the authorities prevent harmful activities?",
+                  "options": [
+                    "With studies of their impact on the environment",
+                    "By expanding human settlements",
+                    "By using more fertilisers",
+                    "By overexploiting groundwater"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "The authorities prevent harmful activities with studies of their impact on the environment."
+                }
+              ]
+            },
+            {
+              "id": "protected-areas-2",
+              "name": "Level 2",
+              "sessionSize": 10,
+              "questions": [
+                {
+                  "id": "pro-2-1",
+                  "type": "multiple-choice",
+                  "prompt": "Why do the authorities create protected areas?",
+                  "options": [
+                    "Because rivers become dry in summer",
+                    "Because human activities can damage landscapes of high ecological value",
+                    "Because the islands have no true rivers",
+                    "Because the Meseta is a plateau"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Human activities can damage landscapes, so the authorities protect areas of high ecological value."
+                },
+                {
+                  "id": "pro-2-2",
+                  "type": "multiple-choice",
+                  "prompt": "How do wetlands help combat climate change?",
+                  "options": [
+                    "They stop rivers from becoming dry in summer",
+                    "They make the coast higher",
+                    "They capture carbon and reduce atmospheric greenhouse gases",
+                    "They remove waste from the sea"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "Wetlands help combat climate change by capturing carbon and reducing atmospheric greenhouse gases."
+                },
+                {
+                  "id": "pro-2-3",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these national parks is a wetland?",
+                  "options": [
+                    "Teide",
+                    "Sierra de Guadarrama",
+                    "Ordesa y Monte Perdido",
+                    "Tablas de Daimiel"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "The Tablas de Daimiel are a wetland and a national park."
+                },
+                {
+                  "id": "pro-2-4",
+                  "type": "multiple-choice",
+                  "prompt": "Why are wetlands important for European birds?",
+                  "options": [
+                    "They are stopover points when the birds migrate to Africa",
+                    "They are the highest places in Spain",
+                    "They are far from the sea",
+                    "They are dry all year round"
+                  ],
+                  "correctIndex": 0,
+                  "explanation": "Wetlands are stopover points for European birds migrating to Africa."
+                },
+                {
+                  "id": "pro-2-5",
+                  "type": "multiple-select",
+                  "prompt": "Which of these problems threaten wetlands?",
+                  "options": [
+                    "Overexploitation of groundwater",
+                    "Planting trees",
+                    "Water pollution caused by fertilisers and pesticides",
+                    "Expansion of human settlements",
+                    "Removing waste"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    3
+                  ],
+                  "explanation": "Wetlands suffer from overexploitation of groundwater, water pollution caused by fertilisers and pesticides, and the expansion of human settlements. Planting trees and removing waste help to recover damaged areas."
+                },
+                {
+                  "id": "pro-2-6",
+                  "type": "multiple-choice",
+                  "prompt": "Doñana is a wetland near the coast of Atlantic Andalucía. What is that coast like?",
+                  "options": [
+                    "Rocky, with high cliffs and small inlets",
+                    "Low and sandy, with marshes near the coast",
+                    "Irregular, with many long rías",
+                    "High and rocky in the west and low in the east"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The coast of Atlantic Andalucía is low and sandy, with marshes near the coast."
+                },
+                {
+                  "id": "pro-2-7",
+                  "type": "multiple-choice",
+                  "prompt": "How is a national park different from other protected areas?",
+                  "options": [
+                    "It is always on an island",
+                    "It is always a wetland",
+                    "It has the highest level of protection",
+                    "It has no animals or plants"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "A national park has the highest level of protection of all the types of protected areas."
+                },
+                {
+                  "id": "pro-2-8",
+                  "type": "multiple-choice",
+                  "prompt": "How are wetlands protected?",
+                  "options": [
+                    "By expanding human settlements",
+                    "With restrictions on water extraction, hunting or fishing",
+                    "By using more fertilisers",
+                    "By overexploiting groundwater"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Wetlands are protected by restrictions on water extraction, hunting or fishing, and some are protected areas."
+                },
+                {
+                  "id": "pro-2-9",
+                  "type": "multiple-choice",
+                  "prompt": "What has happened to more than half of the wetlands?",
+                  "options": [
+                    "They have all become national parks",
+                    "They have doubled in size",
+                    "They have become mountains",
+                    "They have disappeared or suffer from serious problems"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "More than half of the wetlands have disappeared or suffer from problems such as overexploitation of groundwater, pollution and the expansion of human settlements."
+                },
+                {
+                  "id": "pro-2-10",
+                  "type": "multiple-choice",
+                  "prompt": "What can a wetland be covered by?",
+                  "options": [
+                    "Lava from a volcano",
+                    "Snow all year round",
+                    "Salt or fresh water, permanently or temporarily",
+                    "Sand from the beach"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "A wetland is a flat area covered by salt or fresh water, permanently or temporarily."
+                },
+                {
+                  "id": "pro-2-11",
+                  "type": "multiple-select",
+                  "prompt": "Which of these do Spain's 16 national parks represent?",
+                  "options": [
+                    "Mountains",
+                    "Industrial areas",
+                    "Wetlands",
+                    "Mediterranean forests",
+                    "Big cities"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    3
+                  ],
+                  "explanation": "Spain's national parks represent mountains, wetlands, Mediterranean forests, the landscapes of the Islas Canarias and marine areas."
+                },
+                {
+                  "id": "pro-2-12",
+                  "type": "multiple-select",
+                  "prompt": "Which of these are ways to recover damaged areas?",
+                  "options": [
+                    "Removing waste",
+                    "Overexploiting groundwater",
+                    "Planting trees",
+                    "Expanding human settlements",
+                    "Removing pollutants from the water"
+                  ],
+                  "correctIndexes": [
+                    0,
+                    2,
+                    4
+                  ],
+                  "explanation": "The authorities recover damaged areas by removing waste, planting trees and removing pollutants from the water."
+                },
+                {
+                  "id": "pro-2-13",
+                  "type": "multiple-choice",
+                  "prompt": "The Delta del Ebro is a wetland where the river Ebro meets the sea. Which basin does the Ebro belong to?",
+                  "options": [
+                    "Atlantic basin",
+                    "Mediterranean basin",
+                    "Cantabrian basin",
+                    "It belongs to no basin"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "The Ebro flows into the Mediterranean Sea, so it belongs to the Mediterranean basin."
+                },
+                {
+                  "id": "pro-2-14",
+                  "type": "multiple-choice",
+                  "prompt": "Timanfaya, Garajonay and Caldera de Taburiente are national parks in the Islas Canarias. What kind of landscape do they protect?",
+                  "options": [
+                    "Rías of Galicia",
+                    "Mountain ranges of the Meseta",
+                    "Volcanic island landscapes",
+                    "Mediterranean deltas"
+                  ],
+                  "correctIndex": 2,
+                  "explanation": "These national parks protect the landscapes of the Islas Canarias, which are islands of volcanic origin."
+                },
+                {
+                  "id": "pro-2-15",
+                  "type": "multiple-choice",
+                  "prompt": "Which sentence about Spain's national parks is true?",
+                  "options": [
+                    "There are 8, all in the Islas Canarias",
+                    "They have the lowest level of protection",
+                    "They are all wetlands",
+                    "Spain has 16, and they have the highest level of protection"
+                  ],
+                  "correctIndex": 3,
+                  "explanation": "Spain has 16 national parks, and a national park has the highest level of protection."
+                },
+                {
+                  "id": "pro-2-16",
+                  "type": "multiple-choice",
+                  "prompt": "Which of these causes water pollution in wetlands?",
+                  "options": [
+                    "Planting trees",
+                    "Fertilisers and pesticides",
+                    "Removing waste",
+                    "Birds migrating to Africa"
+                  ],
+                  "correctIndex": 1,
+                  "explanation": "Fertilisers and pesticides cause water pollution in wetlands. Planting trees and removing waste help to recover damaged areas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
