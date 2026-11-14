@@ -1,0 +1,1 @@
+import{at as e}from"./index-CuX7qYAO.js";var t=e();function n({lang:e,children:n}){return e===void 0?n:(0,t.jsx)(`div`,{translate:`no`,className:`notranslate contents`,children:n})}export{n as t};
