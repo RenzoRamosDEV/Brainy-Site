@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://renzoramosdev.github.io/Brainy-Site/sitemap.xml
